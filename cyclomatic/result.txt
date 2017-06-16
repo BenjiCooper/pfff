@@ -1,0 +1,7966 @@
+============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/build/Cores.c 
+============================================================================
+=============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/build/Crypto.c 
+=============================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 72
+nodes: 0 1 2 8 3 4 5 6 7 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 69 66 67 68 70 71 72 
+edges: source: 71 dest: 72
+source: 70 dest: 71
+source: 69 dest: 70
+source: 64 dest: 65
+source: 63 dest: 64
+source: 62 dest: 63
+source: 61 dest: 62
+source: 60 dest: 61
+source: 59 dest: 60
+source: 58 dest: 59
+source: 57 dest: 58
+source: 56 dest: 57
+source: 55 dest: 56
+source: 54 dest: 55
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 48 dest: 49
+source: 47 dest: 48
+source: 46 dest: 47
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+source: 34 dest: 35
+source: 33 dest: 34
+source: 32 dest: 33
+source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 19 dest: 20
+source: 18 dest: 19
+source: 17 dest: 18
+source: 16 dest: 17
+source: 15 dest: 16
+source: 14 dest: 15
+source: 13 dest: 14
+source: 12 dest: 13
+source: 11 dest: 12
+source: 10 dest: 11
+source: 9 dest: 10
+source: 8 dest: 9
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 7 dest: 2
+source: 2 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 3 dest: 4
+source: 65 dest: 66
+source: 65 dest: 68
+source: 67 dest: 69
+source: 68 dest: 69
+source: 66 dest: 67
+
+
+head: 73
+tail: 145
+nodes: 73 74 145 75 76 82 77 78 79 80 81 83 84 85 86 87 92 88 89 90 91 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 136 131 132 133 134 135 137 138 139 140 141 142 143 144 
+edges: source: 73 dest: 74
+source: 74 dest: 75
+source: 74 dest: 86
+source: 85 dest: 145
+source: 144 dest: 145
+source: 84 dest: 85
+source: 83 dest: 84
+source: 82 dest: 83
+source: 75 dest: 76
+source: 76 dest: 77
+source: 81 dest: 76
+source: 76 dest: 82
+source: 80 dest: 81
+source: 79 dest: 80
+source: 78 dest: 79
+source: 77 dest: 78
+source: 143 dest: 144
+source: 142 dest: 143
+source: 141 dest: 142
+source: 140 dest: 141
+source: 139 dest: 140
+source: 138 dest: 139
+source: 137 dest: 138
+source: 136 dest: 137
+source: 129 dest: 130
+source: 128 dest: 129
+source: 127 dest: 128
+source: 126 dest: 127
+source: 125 dest: 126
+source: 124 dest: 125
+source: 123 dest: 124
+source: 122 dest: 123
+source: 121 dest: 122
+source: 120 dest: 121
+source: 119 dest: 120
+source: 118 dest: 119
+source: 117 dest: 118
+source: 116 dest: 117
+source: 115 dest: 116
+source: 114 dest: 115
+source: 113 dest: 114
+source: 112 dest: 113
+source: 111 dest: 112
+source: 110 dest: 111
+source: 109 dest: 110
+source: 108 dest: 109
+source: 107 dest: 108
+source: 106 dest: 107
+source: 105 dest: 106
+source: 104 dest: 105
+source: 103 dest: 104
+source: 102 dest: 103
+source: 101 dest: 102
+source: 100 dest: 101
+source: 99 dest: 100
+source: 98 dest: 99
+source: 97 dest: 98
+source: 96 dest: 97
+source: 95 dest: 96
+source: 94 dest: 95
+source: 93 dest: 94
+source: 92 dest: 93
+source: 86 dest: 87
+source: 87 dest: 88
+source: 91 dest: 87
+source: 87 dest: 92
+source: 90 dest: 91
+source: 89 dest: 90
+source: 88 dest: 89
+source: 130 dest: 131
+source: 135 dest: 130
+source: 130 dest: 136
+source: 134 dest: 135
+source: 133 dest: 134
+source: 132 dest: 133
+source: 131 dest: 132
+
+
+head: 146
+tail: 188
+nodes: 146 147 148 149 150 151 152 153 154 158 155 156 157 159 160 161 162 166 163 164 165 167 168 169 170 174 171 172 173 175 176 177 178 183 179 180 181 182 184 185 186 187 188 
+edges: source: 187 dest: 188
+source: 186 dest: 187
+source: 185 dest: 186
+source: 184 dest: 185
+source: 183 dest: 184
+source: 177 dest: 178
+source: 176 dest: 177
+source: 175 dest: 176
+source: 174 dest: 175
+source: 169 dest: 170
+source: 168 dest: 169
+source: 167 dest: 168
+source: 166 dest: 167
+source: 161 dest: 162
+source: 160 dest: 161
+source: 159 dest: 160
+source: 158 dest: 159
+source: 153 dest: 154
+source: 152 dest: 153
+source: 151 dest: 152
+source: 150 dest: 151
+source: 149 dest: 150
+source: 148 dest: 149
+source: 147 dest: 148
+source: 146 dest: 147
+source: 154 dest: 155
+source: 154 dest: 157
+source: 156 dest: 158
+source: 157 dest: 158
+source: 155 dest: 156
+source: 162 dest: 163
+source: 162 dest: 165
+source: 164 dest: 166
+source: 165 dest: 166
+source: 163 dest: 164
+source: 170 dest: 171
+source: 170 dest: 173
+source: 172 dest: 174
+source: 173 dest: 174
+source: 171 dest: 172
+source: 178 dest: 179
+source: 178 dest: 182
+source: 181 dest: 183
+source: 182 dest: 183
+source: 180 dest: 181
+source: 179 dest: 180
+
+
+head: 189
+tail: 201
+nodes: 189 190 191 200 192 193 194 195 196 199 197 198 201 
+edges: source: 200 dest: 201
+source: 190 dest: 191
+source: 189 dest: 190
+source: 191 dest: 192
+source: 199 dest: 191
+source: 191 dest: 200
+source: 195 dest: 196
+source: 194 dest: 195
+source: 193 dest: 194
+source: 192 dest: 193
+source: 196 dest: 197
+source: 196 dest: 198
+source: 197 dest: 199
+source: 198 dest: 199
+
+
+head: 202
+tail: 243
+nodes: 202 203 234 204 205 206 207 211 208 209 210 212 216 213 214 215 217 218 221 219 220 222 223 224 225 226 230 227 228 229 231 232 233 235 239 236 237 238 240 241 242 243 
+edges: source: 242 dest: 243
+source: 241 dest: 242
+source: 240 dest: 241
+source: 239 dest: 240
+source: 234 dest: 235
+source: 202 dest: 203
+source: 203 dest: 204
+source: 233 dest: 203
+source: 203 dest: 234
+source: 232 dest: 233
+source: 231 dest: 232
+source: 230 dest: 231
+source: 225 dest: 226
+source: 224 dest: 225
+source: 223 dest: 224
+source: 222 dest: 223
+source: 221 dest: 222
+source: 217 dest: 218
+source: 216 dest: 217
+source: 211 dest: 212
+source: 206 dest: 207
+source: 205 dest: 206
+source: 204 dest: 205
+source: 207 dest: 208
+source: 207 dest: 210
+source: 209 dest: 211
+source: 210 dest: 211
+source: 208 dest: 209
+source: 212 dest: 213
+source: 212 dest: 215
+source: 214 dest: 216
+source: 215 dest: 216
+source: 213 dest: 214
+source: 218 dest: 219
+source: 218 dest: 220
+source: 219 dest: 221
+source: 220 dest: 221
+source: 226 dest: 227
+source: 226 dest: 229
+source: 228 dest: 230
+source: 229 dest: 230
+source: 227 dest: 228
+source: 235 dest: 236
+source: 235 dest: 238
+source: 237 dest: 239
+source: 238 dest: 239
+source: 236 dest: 237
+
+
+
+num funcs: 5
+cyclomatic complexity: 23
+=================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/build/LinkedList.c 
+=================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 11
+nodes: 0 1 2 3 4 5 10 6 7 8 9 11 
+edges: source: 10 dest: 11
+source: 4 dest: 5
+source: 3 dest: 4
+source: 2 dest: 3
+source: 1 dest: 2
+source: 0 dest: 1
+source: 5 dest: 6
+source: 5 dest: 9
+source: 8 dest: 10
+source: 9 dest: 10
+source: 7 dest: 8
+source: 6 dest: 7
+
+
+head: 12
+tail: 22
+nodes: 12 13 14 15 17 16 18 19 22 20 21 
+edges: source: 18 dest: 19
+source: 17 dest: 18
+source: 14 dest: 15
+source: 13 dest: 14
+source: 12 dest: 13
+source: 15 dest: 16
+source: 16 dest: 15
+source: 15 dest: 17
+source: 19 dest: 20
+source: 19 dest: 21
+source: 20 dest: 22
+source: 21 dest: 22
+
+
+head: 23
+tail: 47
+nodes: 23 24 25 26 27 28 29 32 30 31 33 37 34 35 36 38 39 40 43 41 42 44 47 45 46 
+edges: source: 43 dest: 44
+source: 39 dest: 40
+source: 38 dest: 39
+source: 37 dest: 38
+source: 32 dest: 33
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 29 dest: 30
+source: 29 dest: 31
+source: 30 dest: 32
+source: 31 dest: 32
+source: 33 dest: 34
+source: 36 dest: 33
+source: 33 dest: 37
+source: 35 dest: 36
+source: 34 dest: 35
+source: 40 dest: 41
+source: 40 dest: 42
+source: 41 dest: 43
+source: 42 dest: 43
+source: 44 dest: 45
+source: 44 dest: 46
+source: 45 dest: 47
+source: 46 dest: 47
+
+
+head: 48
+tail: 56
+nodes: 48 49 55 50 51 52 53 54 56 
+edges: source: 55 dest: 56
+source: 48 dest: 49
+source: 49 dest: 50
+source: 54 dest: 49
+source: 49 dest: 55
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+
+
+head: 57
+tail: 63
+nodes: 57 58 59 63 60 61 62 
+edges: source: 58 dest: 59
+source: 57 dest: 58
+source: 59 dest: 60
+source: 62 dest: 59
+source: 59 dest: 63
+source: 61 dest: 62
+source: 60 dest: 61
+
+
+
+num funcs: 5
+cyclomatic complexity: 14
+================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/build/logappend.c 
+================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 329
+nodes: 0 1 2 3 8 4 5 6 7 9 10 11 12 13 18 14 15 16 17 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 39 35 36 37 38 40 41 42 43 44 49 45 46 47 48 50 51 52 53 56 54 55 57 58 65 59 60 61 62 63 64 66 302 67 68 69 74 70 71 72 73 75 76 77 223 78 79 199 80 81 129 82 83 97 84 85 86 87 88 93 89 90 91 92 94 95 96 98 99 128 100 101 102 103 104 109 105 106 107 108 110 111 112 113 127 114 115 116 117 118 123 119 120 121 122 124 125 126 130 131 198 132 133 162 134 135 136 137 138 143 139 140 141 142 144 145 146 147 161 148 149 150 151 152 157 153 154 155 156 158 159 160 163 164 197 165 166 180 167 168 169 170 171 176 172 173 174 175 177 178 179 181 182 196 183 184 185 186 187 192 188 189 190 191 193 194 195 200 214 201 202 203 204 205 210 206 207 208 209 211 212 213 215 216 217 218 219 220 221 222 224 237 225 226 227 228 232 229 230 231 233 234 235 236 238 241 239 240 242 243 244 245 246 247 261 248 249 250 251 252 257 253 254 255 256 258 259 260 262 263 277 264 265 266 267 268 273 269 270 271 272 274 275 276 278 279 284 280 281 282 283 285 286 287 301 288 289 290 291 292 297 293 294 295 296 298 299 300 303 304 305 306 307 308 309 310 311 312 315 313 314 316 317 318 319 320 321 322 323 328 324 325 326 327 329 
+edges: source: 328 dest: 329
+source: 322 dest: 323
+source: 321 dest: 322
+source: 320 dest: 321
+source: 319 dest: 320
+source: 318 dest: 319
+source: 317 dest: 318
+source: 316 dest: 317
+source: 315 dest: 316
+source: 311 dest: 312
+source: 310 dest: 311
+source: 309 dest: 310
+source: 308 dest: 309
+source: 307 dest: 308
+source: 306 dest: 307
+source: 305 dest: 306
+source: 304 dest: 305
+source: 303 dest: 304
+source: 302 dest: 303
+source: 65 dest: 66
+source: 57 dest: 58
+source: 56 dest: 57
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 43 dest: 44
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 33 dest: 34
+source: 32 dest: 33
+source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 19 dest: 20
+source: 18 dest: 19
+source: 12 dest: 13
+source: 11 dest: 12
+source: 10 dest: 11
+source: 9 dest: 10
+source: 8 dest: 9
+source: 2 dest: 3
+source: 1 dest: 2
+source: 0 dest: 1
+source: 3 dest: 4
+source: 7 dest: 3
+source: 3 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 13 dest: 14
+source: 17 dest: 13
+source: 13 dest: 18
+source: 16 dest: 17
+source: 15 dest: 16
+source: 14 dest: 15
+source: 34 dest: 35
+source: 34 dest: 38
+source: 37 dest: 39
+source: 38 dest: 39
+source: 36 dest: 37
+source: 35 dest: 36
+source: 44 dest: 45
+source: 48 dest: 44
+source: 44 dest: 49
+source: 47 dest: 48
+source: 46 dest: 47
+source: 45 dest: 46
+source: 53 dest: 54
+source: 55 dest: 53
+source: 53 dest: 56
+source: 54 dest: 55
+source: 58 dest: 59
+source: 58 dest: 62
+source: 61 dest: 65
+source: 64 dest: 65
+source: 60 dest: 61
+source: 59 dest: 60
+source: 63 dest: 64
+source: 62 dest: 63
+source: 66 dest: 67
+source: 66 dest: 286
+source: 285 dest: 302
+source: 301 dest: 302
+source: 284 dest: 285
+source: 278 dest: 279
+source: 277 dest: 278
+source: 262 dest: 263
+source: 261 dest: 262
+source: 246 dest: 247
+source: 245 dest: 246
+source: 244 dest: 245
+source: 243 dest: 244
+source: 242 dest: 243
+source: 241 dest: 242
+source: 237 dest: 238
+source: 223 dest: 224
+source: 76 dest: 77
+source: 75 dest: 76
+source: 74 dest: 75
+source: 68 dest: 69
+source: 67 dest: 68
+source: 69 dest: 70
+source: 73 dest: 69
+source: 69 dest: 74
+source: 72 dest: 73
+source: 71 dest: 72
+source: 70 dest: 71
+source: 77 dest: 78
+source: 77 dest: 222
+source: 221 dest: 223
+source: 222 dest: 223
+source: 220 dest: 221
+source: 219 dest: 220
+source: 218 dest: 219
+source: 217 dest: 218
+source: 216 dest: 217
+source: 215 dest: 216
+source: 214 dest: 215
+source: 199 dest: 200
+source: 78 dest: 79
+source: 79 dest: 80
+source: 79 dest: 130
+source: 129 dest: 199
+source: 198 dest: 199
+source: 80 dest: 81
+source: 81 dest: 82
+source: 81 dest: 98
+source: 97 dest: 129
+source: 128 dest: 129
+source: 82 dest: 83
+source: 83 dest: 84
+source: 83 dest: 96
+source: 95 dest: 97
+source: 96 dest: 97
+source: 94 dest: 95
+source: 93 dest: 94
+source: 87 dest: 88
+source: 86 dest: 87
+source: 85 dest: 86
+source: 84 dest: 85
+source: 88 dest: 89
+source: 92 dest: 88
+source: 88 dest: 93
+source: 91 dest: 92
+source: 90 dest: 91
+source: 89 dest: 90
+source: 98 dest: 99
+source: 99 dest: 100
+source: 99 dest: 112
+source: 111 dest: 128
+source: 127 dest: 128
+source: 110 dest: 111
+source: 109 dest: 110
+source: 103 dest: 104
+source: 102 dest: 103
+source: 101 dest: 102
+source: 100 dest: 101
+source: 104 dest: 105
+source: 108 dest: 104
+source: 104 dest: 109
+source: 107 dest: 108
+source: 106 dest: 107
+source: 105 dest: 106
+source: 112 dest: 113
+source: 113 dest: 114
+source: 113 dest: 126
+source: 125 dest: 127
+source: 126 dest: 127
+source: 124 dest: 125
+source: 123 dest: 124
+source: 117 dest: 118
+source: 116 dest: 117
+source: 115 dest: 116
+source: 114 dest: 115
+source: 118 dest: 119
+source: 122 dest: 118
+source: 118 dest: 123
+source: 121 dest: 122
+source: 120 dest: 121
+source: 119 dest: 120
+source: 130 dest: 131
+source: 131 dest: 132
+source: 131 dest: 163
+source: 162 dest: 198
+source: 197 dest: 198
+source: 132 dest: 133
+source: 133 dest: 134
+source: 133 dest: 146
+source: 145 dest: 162
+source: 161 dest: 162
+source: 144 dest: 145
+source: 143 dest: 144
+source: 137 dest: 138
+source: 136 dest: 137
+source: 135 dest: 136
+source: 134 dest: 135
+source: 138 dest: 139
+source: 142 dest: 138
+source: 138 dest: 143
+source: 141 dest: 142
+source: 140 dest: 141
+source: 139 dest: 140
+source: 146 dest: 147
+source: 147 dest: 148
+source: 147 dest: 160
+source: 159 dest: 161
+source: 160 dest: 161
+source: 158 dest: 159
+source: 157 dest: 158
+source: 151 dest: 152
+source: 150 dest: 151
+source: 149 dest: 150
+source: 148 dest: 149
+source: 152 dest: 153
+source: 156 dest: 152
+source: 152 dest: 157
+source: 155 dest: 156
+source: 154 dest: 155
+source: 153 dest: 154
+source: 163 dest: 164
+source: 164 dest: 165
+source: 164 dest: 181
+source: 180 dest: 197
+source: 196 dest: 197
+source: 165 dest: 166
+source: 166 dest: 167
+source: 166 dest: 179
+source: 178 dest: 180
+source: 179 dest: 180
+source: 177 dest: 178
+source: 176 dest: 177
+source: 170 dest: 171
+source: 169 dest: 170
+source: 168 dest: 169
+source: 167 dest: 168
+source: 171 dest: 172
+source: 175 dest: 171
+source: 171 dest: 176
+source: 174 dest: 175
+source: 173 dest: 174
+source: 172 dest: 173
+source: 181 dest: 182
+source: 182 dest: 183
+source: 182 dest: 195
+source: 194 dest: 196
+source: 195 dest: 196
+source: 193 dest: 194
+source: 192 dest: 193
+source: 186 dest: 187
+source: 185 dest: 186
+source: 184 dest: 185
+source: 183 dest: 184
+source: 187 dest: 188
+source: 191 dest: 187
+source: 187 dest: 192
+source: 190 dest: 191
+source: 189 dest: 190
+source: 188 dest: 189
+source: 200 dest: 201
+source: 200 dest: 213
+source: 212 dest: 214
+source: 213 dest: 214
+source: 211 dest: 212
+source: 210 dest: 211
+source: 204 dest: 205
+source: 203 dest: 204
+source: 202 dest: 203
+source: 201 dest: 202
+source: 205 dest: 206
+source: 209 dest: 205
+source: 205 dest: 210
+source: 208 dest: 209
+source: 207 dest: 208
+source: 206 dest: 207
+source: 224 dest: 225
+source: 236 dest: 224
+source: 224 dest: 237
+source: 235 dest: 236
+source: 234 dest: 235
+source: 233 dest: 234
+source: 232 dest: 233
+source: 227 dest: 228
+source: 226 dest: 227
+source: 225 dest: 226
+source: 228 dest: 229
+source: 228 dest: 231
+source: 230 dest: 232
+source: 231 dest: 232
+source: 229 dest: 230
+source: 238 dest: 239
+source: 238 dest: 240
+source: 239 dest: 241
+source: 240 dest: 241
+source: 247 dest: 248
+source: 247 dest: 260
+source: 259 dest: 261
+source: 260 dest: 261
+source: 258 dest: 259
+source: 257 dest: 258
+source: 251 dest: 252
+source: 250 dest: 251
+source: 249 dest: 250
+source: 248 dest: 249
+source: 252 dest: 253
+source: 256 dest: 252
+source: 252 dest: 257
+source: 255 dest: 256
+source: 254 dest: 255
+source: 253 dest: 254
+source: 263 dest: 264
+source: 263 dest: 276
+source: 275 dest: 277
+source: 276 dest: 277
+source: 274 dest: 275
+source: 273 dest: 274
+source: 267 dest: 268
+source: 266 dest: 267
+source: 265 dest: 266
+source: 264 dest: 265
+source: 268 dest: 269
+source: 272 dest: 268
+source: 268 dest: 273
+source: 271 dest: 272
+source: 270 dest: 271
+source: 269 dest: 270
+source: 279 dest: 280
+source: 279 dest: 283
+source: 282 dest: 284
+source: 283 dest: 284
+source: 281 dest: 282
+source: 280 dest: 281
+source: 286 dest: 287
+source: 287 dest: 288
+source: 287 dest: 300
+source: 299 dest: 301
+source: 300 dest: 301
+source: 298 dest: 299
+source: 297 dest: 298
+source: 291 dest: 292
+source: 290 dest: 291
+source: 289 dest: 290
+source: 288 dest: 289
+source: 292 dest: 293
+source: 296 dest: 292
+source: 292 dest: 297
+source: 295 dest: 296
+source: 294 dest: 295
+source: 293 dest: 294
+source: 312 dest: 313
+source: 312 dest: 314
+source: 313 dest: 315
+source: 314 dest: 315
+source: 323 dest: 324
+source: 323 dest: 327
+source: 326 dest: 328
+source: 327 dest: 328
+source: 325 dest: 326
+source: 324 dest: 325
+
+
+head: 330
+tail: 340
+nodes: 330 331 332 333 334 335 336 340 337 338 339 
+edges: source: 335 dest: 336
+source: 334 dest: 335
+source: 333 dest: 334
+source: 332 dest: 333
+source: 331 dest: 332
+source: 330 dest: 331
+source: 336 dest: 337
+source: 336 dest: 339
+source: 338 dest: 340
+source: 339 dest: 340
+source: 337 dest: 338
+
+
+head: 341
+tail: 341
+nodes: 341 
+edges: 
+
+head: 342
+tail: 357
+nodes: 342 343 344 350 345 346 347 348 349 351 352 353 357 354 355 356 
+edges: source: 352 dest: 353
+source: 351 dest: 352
+source: 350 dest: 351
+source: 343 dest: 344
+source: 342 dest: 343
+source: 344 dest: 345
+source: 349 dest: 344
+source: 344 dest: 350
+source: 348 dest: 349
+source: 347 dest: 348
+source: 346 dest: 347
+source: 345 dest: 346
+source: 353 dest: 354
+source: 353 dest: 356
+source: 355 dest: 357
+source: 356 dest: 357
+source: 354 dest: 355
+
+
+head: 358
+tail: 388
+nodes: 358 359 362 360 361 363 364 377 365 366 367 372 368 369 370 371 373 374 375 376 378 379 380 381 382 386 383 384 385 387 388 
+edges: source: 387 dest: 388
+source: 386 dest: 387
+source: 381 dest: 382
+source: 380 dest: 381
+source: 379 dest: 380
+source: 378 dest: 379
+source: 377 dest: 378
+source: 363 dest: 364
+source: 362 dest: 363
+source: 358 dest: 359
+source: 359 dest: 360
+source: 359 dest: 361
+source: 360 dest: 362
+source: 361 dest: 362
+source: 364 dest: 365
+source: 376 dest: 364
+source: 364 dest: 377
+source: 375 dest: 376
+source: 374 dest: 375
+source: 373 dest: 374
+source: 372 dest: 373
+source: 366 dest: 367
+source: 365 dest: 366
+source: 367 dest: 368
+source: 367 dest: 370
+source: 369 dest: 372
+source: 371 dest: 372
+source: 368 dest: 369
+source: 370 dest: 371
+source: 382 dest: 383
+source: 382 dest: 385
+source: 384 dest: 386
+source: 385 dest: 386
+source: 383 dest: 384
+
+
+head: 389
+tail: 391
+nodes: 389 390 391 
+edges: source: 390 dest: 391
+source: 389 dest: 390
+
+
+
+num funcs: 6
+cyclomatic complexity: 54
+==============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/build/logread.c 
+==============================================================================
+=====================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/build/ParserAutomata.c 
+=====================================================================================
+==================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/build/VirtComLine.c 
+==================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 18
+nodes: 0 1 2 3 16 4 15 5 6 7 8 9 14 10 11 12 13 17 18 
+edges: source: 17 dest: 18
+source: 16 dest: 17
+source: 2 dest: 3
+source: 1 dest: 2
+source: 0 dest: 1
+source: 3 dest: 4
+source: 15 dest: 3
+source: 3 dest: 16
+source: 4 dest: 5
+source: 4 dest: 9
+source: 8 dest: 15
+source: 14 dest: 15
+source: 7 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+source: 9 dest: 10
+source: 9 dest: 13
+source: 12 dest: 14
+source: 13 dest: 14
+source: 11 dest: 12
+source: 10 dest: 11
+
+
+head: 19
+tail: 34
+nodes: 19 20 21 32 22 31 23 24 25 30 26 27 28 29 33 34 
+edges: source: 33 dest: 34
+source: 32 dest: 33
+source: 20 dest: 21
+source: 19 dest: 20
+source: 21 dest: 22
+source: 31 dest: 21
+source: 21 dest: 32
+source: 22 dest: 23
+source: 22 dest: 25
+source: 24 dest: 31
+source: 30 dest: 31
+source: 23 dest: 24
+source: 25 dest: 26
+source: 25 dest: 29
+source: 28 dest: 30
+source: 29 dest: 30
+source: 27 dest: 28
+source: 26 dest: 27
+
+
+head: 35
+tail: 49
+nodes: 35 36 37 38 43 39 40 41 42 44 47 45 46 48 49 
+edges: source: 48 dest: 49
+source: 47 dest: 48
+source: 43 dest: 44
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+source: 38 dest: 39
+source: 38 dest: 42
+source: 41 dest: 43
+source: 42 dest: 43
+source: 40 dest: 41
+source: 39 dest: 40
+source: 44 dest: 45
+source: 44 dest: 46
+source: 45 dest: 47
+source: 46 dest: 47
+
+
+head: 50
+tail: 52
+nodes: 50 51 52 
+edges: source: 51 dest: 52
+source: 50 dest: 51
+
+
+
+num funcs: 4
+cyclomatic complexity: 12
+=================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/build/vladCrypto.c 
+=================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 0
+nodes: 0 
+edges: 
+
+head: 1
+tail: 1
+nodes: 1 
+edges: 
+
+head: 2
+tail: 2
+nodes: 2 
+edges: 
+
+head: 3
+tail: 3
+nodes: 3 
+edges: 
+
+head: 4
+tail: 4
+nodes: 4 
+edges: 
+
+head: 5
+tail: 26
+nodes: 5 6 7 12 8 9 10 11 13 18 14 15 16 17 19 22 20 21 23 24 25 26 
+edges: source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 18 dest: 19
+source: 12 dest: 13
+source: 6 dest: 7
+source: 5 dest: 6
+source: 7 dest: 8
+source: 7 dest: 11
+source: 10 dest: 12
+source: 11 dest: 12
+source: 9 dest: 10
+source: 8 dest: 9
+source: 13 dest: 14
+source: 13 dest: 17
+source: 16 dest: 18
+source: 17 dest: 18
+source: 15 dest: 16
+source: 14 dest: 15
+source: 19 dest: 20
+source: 19 dest: 21
+source: 20 dest: 22
+source: 21 dest: 22
+
+
+head: 27
+tail: 34
+nodes: 27 28 29 30 31 32 33 34 
+edges: source: 33 dest: 34
+source: 32 dest: 33
+source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 27 dest: 28
+
+
+head: 35
+tail: 42
+nodes: 35 36 37 38 39 40 41 42 
+edges: source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+
+
+head: 43
+tail: 52
+nodes: 43 44 45 46 47 48 49 50 51 52 
+edges: source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 48 dest: 49
+source: 47 dest: 48
+source: 46 dest: 47
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+
+
+
+num funcs: 9
+cyclomatic complexity: 12
+===============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/fix/code/Cores.c 
+===============================================================================
+================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/fix/code/Crypto.c 
+================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 72
+nodes: 0 1 2 8 3 4 5 6 7 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 69 66 67 68 70 71 72 
+edges: source: 71 dest: 72
+source: 70 dest: 71
+source: 69 dest: 70
+source: 64 dest: 65
+source: 63 dest: 64
+source: 62 dest: 63
+source: 61 dest: 62
+source: 60 dest: 61
+source: 59 dest: 60
+source: 58 dest: 59
+source: 57 dest: 58
+source: 56 dest: 57
+source: 55 dest: 56
+source: 54 dest: 55
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 48 dest: 49
+source: 47 dest: 48
+source: 46 dest: 47
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+source: 34 dest: 35
+source: 33 dest: 34
+source: 32 dest: 33
+source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 19 dest: 20
+source: 18 dest: 19
+source: 17 dest: 18
+source: 16 dest: 17
+source: 15 dest: 16
+source: 14 dest: 15
+source: 13 dest: 14
+source: 12 dest: 13
+source: 11 dest: 12
+source: 10 dest: 11
+source: 9 dest: 10
+source: 8 dest: 9
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 7 dest: 2
+source: 2 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 3 dest: 4
+source: 65 dest: 66
+source: 65 dest: 68
+source: 67 dest: 69
+source: 68 dest: 69
+source: 66 dest: 67
+
+
+head: 73
+tail: 145
+nodes: 73 74 145 75 76 82 77 78 79 80 81 83 84 85 86 87 92 88 89 90 91 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 136 131 132 133 134 135 137 138 139 140 141 142 143 144 
+edges: source: 73 dest: 74
+source: 74 dest: 75
+source: 74 dest: 86
+source: 85 dest: 145
+source: 144 dest: 145
+source: 84 dest: 85
+source: 83 dest: 84
+source: 82 dest: 83
+source: 75 dest: 76
+source: 76 dest: 77
+source: 81 dest: 76
+source: 76 dest: 82
+source: 80 dest: 81
+source: 79 dest: 80
+source: 78 dest: 79
+source: 77 dest: 78
+source: 143 dest: 144
+source: 142 dest: 143
+source: 141 dest: 142
+source: 140 dest: 141
+source: 139 dest: 140
+source: 138 dest: 139
+source: 137 dest: 138
+source: 136 dest: 137
+source: 129 dest: 130
+source: 128 dest: 129
+source: 127 dest: 128
+source: 126 dest: 127
+source: 125 dest: 126
+source: 124 dest: 125
+source: 123 dest: 124
+source: 122 dest: 123
+source: 121 dest: 122
+source: 120 dest: 121
+source: 119 dest: 120
+source: 118 dest: 119
+source: 117 dest: 118
+source: 116 dest: 117
+source: 115 dest: 116
+source: 114 dest: 115
+source: 113 dest: 114
+source: 112 dest: 113
+source: 111 dest: 112
+source: 110 dest: 111
+source: 109 dest: 110
+source: 108 dest: 109
+source: 107 dest: 108
+source: 106 dest: 107
+source: 105 dest: 106
+source: 104 dest: 105
+source: 103 dest: 104
+source: 102 dest: 103
+source: 101 dest: 102
+source: 100 dest: 101
+source: 99 dest: 100
+source: 98 dest: 99
+source: 97 dest: 98
+source: 96 dest: 97
+source: 95 dest: 96
+source: 94 dest: 95
+source: 93 dest: 94
+source: 92 dest: 93
+source: 86 dest: 87
+source: 87 dest: 88
+source: 91 dest: 87
+source: 87 dest: 92
+source: 90 dest: 91
+source: 89 dest: 90
+source: 88 dest: 89
+source: 130 dest: 131
+source: 135 dest: 130
+source: 130 dest: 136
+source: 134 dest: 135
+source: 133 dest: 134
+source: 132 dest: 133
+source: 131 dest: 132
+
+
+head: 146
+tail: 187
+nodes: 146 147 148 149 150 151 152 153 154 158 155 156 157 159 160 161 162 166 163 164 165 167 168 169 170 174 171 172 173 175 176 177 178 182 179 180 181 183 184 185 186 187 
+edges: source: 186 dest: 187
+source: 185 dest: 186
+source: 184 dest: 185
+source: 183 dest: 184
+source: 182 dest: 183
+source: 177 dest: 178
+source: 176 dest: 177
+source: 175 dest: 176
+source: 174 dest: 175
+source: 169 dest: 170
+source: 168 dest: 169
+source: 167 dest: 168
+source: 166 dest: 167
+source: 161 dest: 162
+source: 160 dest: 161
+source: 159 dest: 160
+source: 158 dest: 159
+source: 153 dest: 154
+source: 152 dest: 153
+source: 151 dest: 152
+source: 150 dest: 151
+source: 149 dest: 150
+source: 148 dest: 149
+source: 147 dest: 148
+source: 146 dest: 147
+source: 154 dest: 155
+source: 154 dest: 157
+source: 156 dest: 158
+source: 157 dest: 158
+source: 155 dest: 156
+source: 162 dest: 163
+source: 162 dest: 165
+source: 164 dest: 166
+source: 165 dest: 166
+source: 163 dest: 164
+source: 170 dest: 171
+source: 170 dest: 173
+source: 172 dest: 174
+source: 173 dest: 174
+source: 171 dest: 172
+source: 178 dest: 179
+source: 178 dest: 181
+source: 180 dest: 182
+source: 181 dest: 182
+source: 179 dest: 180
+
+
+head: 188
+tail: 200
+nodes: 188 189 190 199 191 192 193 194 195 198 196 197 200 
+edges: source: 199 dest: 200
+source: 189 dest: 190
+source: 188 dest: 189
+source: 190 dest: 191
+source: 198 dest: 190
+source: 190 dest: 199
+source: 194 dest: 195
+source: 193 dest: 194
+source: 192 dest: 193
+source: 191 dest: 192
+source: 195 dest: 196
+source: 195 dest: 197
+source: 196 dest: 198
+source: 197 dest: 198
+
+
+head: 201
+tail: 243
+nodes: 201 202 234 203 204 205 206 210 207 208 209 211 215 212 213 214 216 217 221 218 219 220 222 223 224 225 226 230 227 228 229 231 232 233 235 239 236 237 238 240 241 242 243 
+edges: source: 242 dest: 243
+source: 241 dest: 242
+source: 240 dest: 241
+source: 239 dest: 240
+source: 234 dest: 235
+source: 201 dest: 202
+source: 202 dest: 203
+source: 233 dest: 202
+source: 202 dest: 234
+source: 232 dest: 233
+source: 231 dest: 232
+source: 230 dest: 231
+source: 225 dest: 226
+source: 224 dest: 225
+source: 223 dest: 224
+source: 222 dest: 223
+source: 221 dest: 222
+source: 216 dest: 217
+source: 215 dest: 216
+source: 210 dest: 211
+source: 205 dest: 206
+source: 204 dest: 205
+source: 203 dest: 204
+source: 206 dest: 207
+source: 206 dest: 209
+source: 208 dest: 210
+source: 209 dest: 210
+source: 207 dest: 208
+source: 211 dest: 212
+source: 211 dest: 214
+source: 213 dest: 215
+source: 214 dest: 215
+source: 212 dest: 213
+source: 217 dest: 218
+source: 217 dest: 220
+source: 219 dest: 221
+source: 220 dest: 221
+source: 218 dest: 219
+source: 226 dest: 227
+source: 226 dest: 229
+source: 228 dest: 230
+source: 229 dest: 230
+source: 227 dest: 228
+source: 235 dest: 236
+source: 235 dest: 238
+source: 237 dest: 239
+source: 238 dest: 239
+source: 236 dest: 237
+
+
+
+num funcs: 5
+cyclomatic complexity: 23
+====================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/fix/code/LinkedList.c 
+====================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 11
+nodes: 0 1 2 3 4 5 10 6 7 8 9 11 
+edges: source: 10 dest: 11
+source: 4 dest: 5
+source: 3 dest: 4
+source: 2 dest: 3
+source: 1 dest: 2
+source: 0 dest: 1
+source: 5 dest: 6
+source: 5 dest: 9
+source: 8 dest: 10
+source: 9 dest: 10
+source: 7 dest: 8
+source: 6 dest: 7
+
+
+head: 12
+tail: 22
+nodes: 12 13 14 15 17 16 18 19 22 20 21 
+edges: source: 18 dest: 19
+source: 17 dest: 18
+source: 14 dest: 15
+source: 13 dest: 14
+source: 12 dest: 13
+source: 15 dest: 16
+source: 16 dest: 15
+source: 15 dest: 17
+source: 19 dest: 20
+source: 19 dest: 21
+source: 20 dest: 22
+source: 21 dest: 22
+
+
+head: 23
+tail: 47
+nodes: 23 24 25 26 27 28 29 32 30 31 33 37 34 35 36 38 39 40 43 41 42 44 47 45 46 
+edges: source: 43 dest: 44
+source: 39 dest: 40
+source: 38 dest: 39
+source: 37 dest: 38
+source: 32 dest: 33
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 29 dest: 30
+source: 29 dest: 31
+source: 30 dest: 32
+source: 31 dest: 32
+source: 33 dest: 34
+source: 36 dest: 33
+source: 33 dest: 37
+source: 35 dest: 36
+source: 34 dest: 35
+source: 40 dest: 41
+source: 40 dest: 42
+source: 41 dest: 43
+source: 42 dest: 43
+source: 44 dest: 45
+source: 44 dest: 46
+source: 45 dest: 47
+source: 46 dest: 47
+
+
+head: 48
+tail: 56
+nodes: 48 49 55 50 51 52 53 54 56 
+edges: source: 55 dest: 56
+source: 48 dest: 49
+source: 49 dest: 50
+source: 54 dest: 49
+source: 49 dest: 55
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+
+
+head: 57
+tail: 63
+nodes: 57 58 59 63 60 61 62 
+edges: source: 58 dest: 59
+source: 57 dest: 58
+source: 59 dest: 60
+source: 62 dest: 59
+source: 59 dest: 63
+source: 61 dest: 62
+source: 60 dest: 61
+
+
+
+num funcs: 5
+cyclomatic complexity: 14
+===================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/fix/code/logappend.c 
+===================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 5
+nodes: 0 1 2 5 3 4 
+edges: source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 2 dest: 4
+source: 3 dest: 5
+source: 4 dest: 5
+
+
+head: 6
+tail: 8
+nodes: 6 7 8 
+edges: source: 7 dest: 8
+source: 6 dest: 7
+
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 9
+tail: 337
+nodes: 9 10 11 12 17 13 14 15 16 18 19 20 21 22 27 23 24 25 26 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 48 44 45 46 47 49 50 51 52 53 58 54 55 56 57 59 60 61 62 65 63 64 66 67 74 68 69 70 71 72 73 75 311 76 77 78 83 79 80 81 82 84 85 86 232 87 88 208 89 90 138 91 92 106 93 94 95 96 97 102 98 99 100 101 103 104 105 107 108 137 109 110 111 112 113 118 114 115 116 117 119 120 121 122 136 123 124 125 126 127 132 128 129 130 131 133 134 135 139 140 207 141 142 171 143 144 145 146 147 152 148 149 150 151 153 154 155 156 170 157 158 159 160 161 166 162 163 164 165 167 168 169 172 173 206 174 175 189 176 177 178 179 180 185 181 182 183 184 186 187 188 190 191 205 192 193 194 195 196 201 197 198 199 200 202 203 204 209 223 210 211 212 213 214 219 215 216 217 218 220 221 222 224 225 226 227 228 229 230 231 233 246 234 235 236 237 241 238 239 240 242 243 244 245 247 250 248 249 251 252 253 254 255 256 270 257 258 259 260 261 266 262 263 264 265 267 268 269 271 272 286 273 274 275 276 277 282 278 279 280 281 283 284 285 287 288 293 289 290 291 292 294 295 296 310 297 298 299 300 301 306 302 303 304 305 307 308 309 312 313 314 315 316 317 318 319 320 321 324 322 323 325 326 327 328 329 330 331 332 336 333 334 335 337 
+edges: source: 336 dest: 337
+source: 331 dest: 332
+source: 330 dest: 331
+source: 329 dest: 330
+source: 328 dest: 329
+source: 327 dest: 328
+source: 326 dest: 327
+source: 325 dest: 326
+source: 324 dest: 325
+source: 320 dest: 321
+source: 319 dest: 320
+source: 318 dest: 319
+source: 317 dest: 318
+source: 316 dest: 317
+source: 315 dest: 316
+source: 314 dest: 315
+source: 313 dest: 314
+source: 312 dest: 313
+source: 311 dest: 312
+source: 74 dest: 75
+source: 66 dest: 67
+source: 65 dest: 66
+source: 61 dest: 62
+source: 60 dest: 61
+source: 59 dest: 60
+source: 58 dest: 59
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 48 dest: 49
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+source: 34 dest: 35
+source: 33 dest: 34
+source: 32 dest: 33
+source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 27 dest: 28
+source: 21 dest: 22
+source: 20 dest: 21
+source: 19 dest: 20
+source: 18 dest: 19
+source: 17 dest: 18
+source: 11 dest: 12
+source: 10 dest: 11
+source: 9 dest: 10
+source: 12 dest: 13
+source: 16 dest: 12
+source: 12 dest: 17
+source: 15 dest: 16
+source: 14 dest: 15
+source: 13 dest: 14
+source: 22 dest: 23
+source: 26 dest: 22
+source: 22 dest: 27
+source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 43 dest: 44
+source: 43 dest: 47
+source: 46 dest: 48
+source: 47 dest: 48
+source: 45 dest: 46
+source: 44 dest: 45
+source: 53 dest: 54
+source: 57 dest: 53
+source: 53 dest: 58
+source: 56 dest: 57
+source: 55 dest: 56
+source: 54 dest: 55
+source: 62 dest: 63
+source: 64 dest: 62
+source: 62 dest: 65
+source: 63 dest: 64
+source: 67 dest: 68
+source: 67 dest: 71
+source: 70 dest: 74
+source: 73 dest: 74
+source: 69 dest: 70
+source: 68 dest: 69
+source: 72 dest: 73
+source: 71 dest: 72
+source: 75 dest: 76
+source: 75 dest: 295
+source: 294 dest: 311
+source: 310 dest: 311
+source: 293 dest: 294
+source: 287 dest: 288
+source: 286 dest: 287
+source: 271 dest: 272
+source: 270 dest: 271
+source: 255 dest: 256
+source: 254 dest: 255
+source: 253 dest: 254
+source: 252 dest: 253
+source: 251 dest: 252
+source: 250 dest: 251
+source: 246 dest: 247
+source: 232 dest: 233
+source: 85 dest: 86
+source: 84 dest: 85
+source: 83 dest: 84
+source: 77 dest: 78
+source: 76 dest: 77
+source: 78 dest: 79
+source: 82 dest: 78
+source: 78 dest: 83
+source: 81 dest: 82
+source: 80 dest: 81
+source: 79 dest: 80
+source: 86 dest: 87
+source: 86 dest: 231
+source: 230 dest: 232
+source: 231 dest: 232
+source: 229 dest: 230
+source: 228 dest: 229
+source: 227 dest: 228
+source: 226 dest: 227
+source: 225 dest: 226
+source: 224 dest: 225
+source: 223 dest: 224
+source: 208 dest: 209
+source: 87 dest: 88
+source: 88 dest: 89
+source: 88 dest: 139
+source: 138 dest: 208
+source: 207 dest: 208
+source: 89 dest: 90
+source: 90 dest: 91
+source: 90 dest: 107
+source: 106 dest: 138
+source: 137 dest: 138
+source: 91 dest: 92
+source: 92 dest: 93
+source: 92 dest: 105
+source: 104 dest: 106
+source: 105 dest: 106
+source: 103 dest: 104
+source: 102 dest: 103
+source: 96 dest: 97
+source: 95 dest: 96
+source: 94 dest: 95
+source: 93 dest: 94
+source: 97 dest: 98
+source: 101 dest: 97
+source: 97 dest: 102
+source: 100 dest: 101
+source: 99 dest: 100
+source: 98 dest: 99
+source: 107 dest: 108
+source: 108 dest: 109
+source: 108 dest: 121
+source: 120 dest: 137
+source: 136 dest: 137
+source: 119 dest: 120
+source: 118 dest: 119
+source: 112 dest: 113
+source: 111 dest: 112
+source: 110 dest: 111
+source: 109 dest: 110
+source: 113 dest: 114
+source: 117 dest: 113
+source: 113 dest: 118
+source: 116 dest: 117
+source: 115 dest: 116
+source: 114 dest: 115
+source: 121 dest: 122
+source: 122 dest: 123
+source: 122 dest: 135
+source: 134 dest: 136
+source: 135 dest: 136
+source: 133 dest: 134
+source: 132 dest: 133
+source: 126 dest: 127
+source: 125 dest: 126
+source: 124 dest: 125
+source: 123 dest: 124
+source: 127 dest: 128
+source: 131 dest: 127
+source: 127 dest: 132
+source: 130 dest: 131
+source: 129 dest: 130
+source: 128 dest: 129
+source: 139 dest: 140
+source: 140 dest: 141
+source: 140 dest: 172
+source: 171 dest: 207
+source: 206 dest: 207
+source: 141 dest: 142
+source: 142 dest: 143
+source: 142 dest: 155
+source: 154 dest: 171
+source: 170 dest: 171
+source: 153 dest: 154
+source: 152 dest: 153
+source: 146 dest: 147
+source: 145 dest: 146
+source: 144 dest: 145
+source: 143 dest: 144
+source: 147 dest: 148
+source: 151 dest: 147
+source: 147 dest: 152
+source: 150 dest: 151
+source: 149 dest: 150
+source: 148 dest: 149
+source: 155 dest: 156
+source: 156 dest: 157
+source: 156 dest: 169
+source: 168 dest: 170
+source: 169 dest: 170
+source: 167 dest: 168
+source: 166 dest: 167
+source: 160 dest: 161
+source: 159 dest: 160
+source: 158 dest: 159
+source: 157 dest: 158
+source: 161 dest: 162
+source: 165 dest: 161
+source: 161 dest: 166
+source: 164 dest: 165
+source: 163 dest: 164
+source: 162 dest: 163
+source: 172 dest: 173
+source: 173 dest: 174
+source: 173 dest: 190
+source: 189 dest: 206
+source: 205 dest: 206
+source: 174 dest: 175
+source: 175 dest: 176
+source: 175 dest: 188
+source: 187 dest: 189
+source: 188 dest: 189
+source: 186 dest: 187
+source: 185 dest: 186
+source: 179 dest: 180
+source: 178 dest: 179
+source: 177 dest: 178
+source: 176 dest: 177
+source: 180 dest: 181
+source: 184 dest: 180
+source: 180 dest: 185
+source: 183 dest: 184
+source: 182 dest: 183
+source: 181 dest: 182
+source: 190 dest: 191
+source: 191 dest: 192
+source: 191 dest: 204
+source: 203 dest: 205
+source: 204 dest: 205
+source: 202 dest: 203
+source: 201 dest: 202
+source: 195 dest: 196
+source: 194 dest: 195
+source: 193 dest: 194
+source: 192 dest: 193
+source: 196 dest: 197
+source: 200 dest: 196
+source: 196 dest: 201
+source: 199 dest: 200
+source: 198 dest: 199
+source: 197 dest: 198
+source: 209 dest: 210
+source: 209 dest: 222
+source: 221 dest: 223
+source: 222 dest: 223
+source: 220 dest: 221
+source: 219 dest: 220
+source: 213 dest: 214
+source: 212 dest: 213
+source: 211 dest: 212
+source: 210 dest: 211
+source: 214 dest: 215
+source: 218 dest: 214
+source: 214 dest: 219
+source: 217 dest: 218
+source: 216 dest: 217
+source: 215 dest: 216
+source: 233 dest: 234
+source: 245 dest: 233
+source: 233 dest: 246
+source: 244 dest: 245
+source: 243 dest: 244
+source: 242 dest: 243
+source: 241 dest: 242
+source: 236 dest: 237
+source: 235 dest: 236
+source: 234 dest: 235
+source: 237 dest: 238
+source: 237 dest: 240
+source: 239 dest: 241
+source: 240 dest: 241
+source: 238 dest: 239
+source: 247 dest: 248
+source: 247 dest: 249
+source: 248 dest: 250
+source: 249 dest: 250
+source: 256 dest: 257
+source: 256 dest: 269
+source: 268 dest: 270
+source: 269 dest: 270
+source: 267 dest: 268
+source: 266 dest: 267
+source: 260 dest: 261
+source: 259 dest: 260
+source: 258 dest: 259
+source: 257 dest: 258
+source: 261 dest: 262
+source: 265 dest: 261
+source: 261 dest: 266
+source: 264 dest: 265
+source: 263 dest: 264
+source: 262 dest: 263
+source: 272 dest: 273
+source: 272 dest: 285
+source: 284 dest: 286
+source: 285 dest: 286
+source: 283 dest: 284
+source: 282 dest: 283
+source: 276 dest: 277
+source: 275 dest: 276
+source: 274 dest: 275
+source: 273 dest: 274
+source: 277 dest: 278
+source: 281 dest: 277
+source: 277 dest: 282
+source: 280 dest: 281
+source: 279 dest: 280
+source: 278 dest: 279
+source: 288 dest: 289
+source: 288 dest: 292
+source: 291 dest: 293
+source: 292 dest: 293
+source: 290 dest: 291
+source: 289 dest: 290
+source: 295 dest: 296
+source: 296 dest: 297
+source: 296 dest: 309
+source: 308 dest: 310
+source: 309 dest: 310
+source: 307 dest: 308
+source: 306 dest: 307
+source: 300 dest: 301
+source: 299 dest: 300
+source: 298 dest: 299
+source: 297 dest: 298
+source: 301 dest: 302
+source: 305 dest: 301
+source: 301 dest: 306
+source: 304 dest: 305
+source: 303 dest: 304
+source: 302 dest: 303
+source: 321 dest: 322
+source: 321 dest: 323
+source: 322 dest: 324
+source: 323 dest: 324
+source: 332 dest: 333
+source: 332 dest: 335
+source: 334 dest: 336
+source: 335 dest: 336
+source: 333 dest: 334
+
+
+head: 338
+tail: 348
+nodes: 338 339 340 341 342 343 344 348 345 346 347 
+edges: source: 343 dest: 344
+source: 342 dest: 343
+source: 341 dest: 342
+source: 340 dest: 341
+source: 339 dest: 340
+source: 338 dest: 339
+source: 344 dest: 345
+source: 344 dest: 347
+source: 346 dest: 348
+source: 347 dest: 348
+source: 345 dest: 346
+
+
+head: 349
+tail: 349
+nodes: 349 
+edges: 
+
+head: 350
+tail: 365
+nodes: 350 351 352 358 353 354 355 356 357 359 360 361 365 362 363 364 
+edges: source: 360 dest: 361
+source: 359 dest: 360
+source: 358 dest: 359
+source: 351 dest: 352
+source: 350 dest: 351
+source: 352 dest: 353
+source: 357 dest: 352
+source: 352 dest: 358
+source: 356 dest: 357
+source: 355 dest: 356
+source: 354 dest: 355
+source: 353 dest: 354
+source: 361 dest: 362
+source: 361 dest: 364
+source: 363 dest: 365
+source: 364 dest: 365
+source: 362 dest: 363
+
+
+head: 366
+tail: 396
+nodes: 366 367 370 368 369 371 372 385 373 374 375 380 376 377 378 379 381 382 383 384 386 387 388 389 390 394 391 392 393 395 396 
+edges: source: 395 dest: 396
+source: 394 dest: 395
+source: 389 dest: 390
+source: 388 dest: 389
+source: 387 dest: 388
+source: 386 dest: 387
+source: 385 dest: 386
+source: 371 dest: 372
+source: 370 dest: 371
+source: 366 dest: 367
+source: 367 dest: 368
+source: 367 dest: 369
+source: 368 dest: 370
+source: 369 dest: 370
+source: 372 dest: 373
+source: 384 dest: 372
+source: 372 dest: 385
+source: 383 dest: 384
+source: 382 dest: 383
+source: 381 dest: 382
+source: 380 dest: 381
+source: 374 dest: 375
+source: 373 dest: 374
+source: 375 dest: 376
+source: 375 dest: 378
+source: 377 dest: 380
+source: 379 dest: 380
+source: 376 dest: 377
+source: 378 dest: 379
+source: 390 dest: 391
+source: 390 dest: 393
+source: 392 dest: 394
+source: 393 dest: 394
+source: 391 dest: 392
+
+
+head: 397
+tail: 399
+nodes: 397 398 399 
+edges: source: 398 dest: 399
+source: 397 dest: 398
+
+
+
+num funcs: 8
+cyclomatic complexity: 57
+=================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/fix/code/logread.c 
+=================================================================================
+========================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/fix/code/ParserAutomata.c 
+========================================================================================
+=====================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/107/fix/code/VirtComLine.c 
+=====================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 18
+nodes: 0 1 2 3 16 4 15 5 6 7 8 9 14 10 11 12 13 17 18 
+edges: source: 17 dest: 18
+source: 16 dest: 17
+source: 2 dest: 3
+source: 1 dest: 2
+source: 0 dest: 1
+source: 3 dest: 4
+source: 15 dest: 3
+source: 3 dest: 16
+source: 4 dest: 5
+source: 4 dest: 9
+source: 8 dest: 15
+source: 14 dest: 15
+source: 7 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+source: 9 dest: 10
+source: 9 dest: 13
+source: 12 dest: 14
+source: 13 dest: 14
+source: 11 dest: 12
+source: 10 dest: 11
+
+
+head: 19
+tail: 34
+nodes: 19 20 21 32 22 31 23 24 25 30 26 27 28 29 33 34 
+edges: source: 33 dest: 34
+source: 32 dest: 33
+source: 20 dest: 21
+source: 19 dest: 20
+source: 21 dest: 22
+source: 31 dest: 21
+source: 21 dest: 32
+source: 22 dest: 23
+source: 22 dest: 25
+source: 24 dest: 31
+source: 30 dest: 31
+source: 23 dest: 24
+source: 25 dest: 26
+source: 25 dest: 29
+source: 28 dest: 30
+source: 29 dest: 30
+source: 27 dest: 28
+source: 26 dest: 27
+
+
+head: 35
+tail: 49
+nodes: 35 36 37 38 43 39 40 41 42 44 47 45 46 48 49 
+edges: source: 48 dest: 49
+source: 47 dest: 48
+source: 43 dest: 44
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+source: 38 dest: 39
+source: 38 dest: 42
+source: 41 dest: 43
+source: 42 dest: 43
+source: 40 dest: 41
+source: 39 dest: 40
+source: 44 dest: 45
+source: 44 dest: 46
+source: 45 dest: 47
+source: 46 dest: 47
+
+
+head: 50
+tail: 52
+nodes: 50 51 52 
+edges: source: 51 dest: 52
+source: 50 dest: 51
+
+
+
+num funcs: 4
+cyclomatic complexity: 12
+=============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/common.c 
+=============================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 2
+nodes: 0 1 2 
+edges: source: 1 dest: 2
+source: 0 dest: 1
+
+
+head: 3
+tail: 4
+nodes: 3 4 
+edges: source: 3 dest: 4
+
+
+head: 5
+tail: 8
+nodes: 5 6 7 8 
+edges: source: 7 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+
+
+head: 9
+tail: 19
+nodes: 9 10 11 18 12 13 17 14 15 16 19 
+edges: source: 18 dest: 19
+source: 10 dest: 11
+source: 9 dest: 10
+source: 11 dest: 12
+source: 17 dest: 11
+source: 11 dest: 18
+source: 12 dest: 13
+source: 13 dest: 14
+source: 13 dest: 16
+source: 15 dest: 17
+source: 16 dest: 17
+source: 14 dest: 15
+
+
+
+num funcs: 4
+cyclomatic complexity: 6
+===============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/database.c 
+===============================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 12
+nodes: 0 1 12 2 3 8 4 5 6 7 9 10 11 
+edges: source: 0 dest: 1
+source: 1 dest: 2
+source: 1 dest: 11
+source: 10 dest: 12
+source: 11 dest: 12
+source: 9 dest: 10
+source: 8 dest: 9
+source: 2 dest: 3
+source: 3 dest: 4
+source: 3 dest: 7
+source: 6 dest: 8
+source: 7 dest: 8
+source: 5 dest: 6
+source: 4 dest: 5
+
+
+head: 13
+tail: 15
+nodes: 13 14 15 
+edges: source: 14 dest: 15
+source: 13 dest: 14
+
+
+head: 16
+tail: 18
+nodes: 16 17 18 
+edges: source: 17 dest: 18
+source: 16 dest: 17
+
+
+head: 19
+tail: 86
+nodes: 19 20 21 30 22 23 28 24 25 26 27 29 31 36 32 33 34 35 37 38 43 39 40 41 42 44 49 45 46 47 48 50 51 52 53 54 55 61 56 57 58 59 60 62 67 63 64 65 66 68 69 70 74 71 72 73 75 79 76 77 78 80 84 81 82 83 85 86 
+edges: source: 85 dest: 86
+source: 84 dest: 85
+source: 79 dest: 80
+source: 74 dest: 75
+source: 69 dest: 70
+source: 68 dest: 69
+source: 67 dest: 68
+source: 61 dest: 62
+source: 54 dest: 55
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 43 dest: 44
+source: 37 dest: 38
+source: 36 dest: 37
+source: 30 dest: 31
+source: 20 dest: 21
+source: 19 dest: 20
+source: 21 dest: 22
+source: 21 dest: 29
+source: 28 dest: 30
+source: 29 dest: 30
+source: 22 dest: 23
+source: 23 dest: 24
+source: 23 dest: 27
+source: 26 dest: 28
+source: 27 dest: 28
+source: 25 dest: 26
+source: 24 dest: 25
+source: 31 dest: 32
+source: 31 dest: 35
+source: 34 dest: 36
+source: 35 dest: 36
+source: 33 dest: 34
+source: 32 dest: 33
+source: 38 dest: 39
+source: 38 dest: 42
+source: 41 dest: 43
+source: 42 dest: 43
+source: 40 dest: 41
+source: 39 dest: 40
+source: 44 dest: 45
+source: 44 dest: 48
+source: 47 dest: 49
+source: 48 dest: 49
+source: 46 dest: 47
+source: 45 dest: 46
+source: 55 dest: 56
+source: 55 dest: 60
+source: 59 dest: 61
+source: 60 dest: 61
+source: 58 dest: 59
+source: 57 dest: 58
+source: 56 dest: 57
+source: 62 dest: 63
+source: 62 dest: 66
+source: 65 dest: 67
+source: 66 dest: 67
+source: 64 dest: 65
+source: 63 dest: 64
+source: 70 dest: 71
+source: 70 dest: 73
+source: 72 dest: 74
+source: 73 dest: 74
+source: 71 dest: 72
+source: 75 dest: 76
+source: 75 dest: 78
+source: 77 dest: 79
+source: 78 dest: 79
+source: 76 dest: 77
+source: 80 dest: 81
+source: 80 dest: 83
+source: 82 dest: 84
+source: 83 dest: 84
+source: 81 dest: 82
+
+
+head: 87
+tail: 107
+nodes: 87 88 89 93 90 91 92 94 98 95 96 97 99 104 100 101 102 103 105 106 107 
+edges: source: 106 dest: 107
+source: 105 dest: 106
+source: 104 dest: 105
+source: 98 dest: 99
+source: 93 dest: 94
+source: 88 dest: 89
+source: 87 dest: 88
+source: 89 dest: 90
+source: 89 dest: 92
+source: 91 dest: 93
+source: 92 dest: 93
+source: 90 dest: 91
+source: 94 dest: 95
+source: 94 dest: 97
+source: 96 dest: 98
+source: 97 dest: 98
+source: 95 dest: 96
+source: 99 dest: 100
+source: 99 dest: 103
+source: 102 dest: 104
+source: 103 dest: 104
+source: 101 dest: 102
+source: 100 dest: 101
+
+
+head: 108
+tail: 129
+nodes: 108 109 110 115 111 112 113 114 116 120 117 118 119 121 128 122 123 124 125 126 127 129 
+edges: source: 128 dest: 129
+source: 120 dest: 121
+source: 115 dest: 116
+source: 109 dest: 110
+source: 108 dest: 109
+source: 110 dest: 111
+source: 110 dest: 113
+source: 112 dest: 115
+source: 114 dest: 115
+source: 111 dest: 112
+source: 113 dest: 114
+source: 116 dest: 117
+source: 116 dest: 119
+source: 118 dest: 120
+source: 119 dest: 120
+source: 117 dest: 118
+source: 121 dest: 122
+source: 121 dest: 127
+source: 126 dest: 128
+source: 127 dest: 128
+source: 125 dest: 126
+source: 124 dest: 125
+source: 123 dest: 124
+source: 122 dest: 123
+
+
+head: 130
+tail: 156
+nodes: 130 131 132 144 133 134 135 136 143 137 138 139 140 141 142 145 149 146 147 148 150 155 151 152 153 154 156 
+edges: source: 155 dest: 156
+source: 149 dest: 150
+source: 144 dest: 145
+source: 131 dest: 132
+source: 130 dest: 131
+source: 132 dest: 133
+source: 132 dest: 136
+source: 135 dest: 144
+source: 143 dest: 144
+source: 134 dest: 135
+source: 133 dest: 134
+source: 136 dest: 137
+source: 136 dest: 140
+source: 139 dest: 143
+source: 142 dest: 143
+source: 138 dest: 139
+source: 137 dest: 138
+source: 141 dest: 142
+source: 140 dest: 141
+source: 145 dest: 146
+source: 145 dest: 148
+source: 147 dest: 149
+source: 148 dest: 149
+source: 146 dest: 147
+source: 150 dest: 151
+source: 150 dest: 154
+source: 153 dest: 155
+source: 154 dest: 155
+source: 152 dest: 153
+source: 151 dest: 152
+
+
+
+num funcs: 7
+cyclomatic complexity: 29
+==============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/journal.c 
+==============================================================================
+================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/logappend.c 
+================================================================================
+==============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/logdump.c 
+==============================================================================
+==============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/logread.c 
+==============================================================================
+==============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/logtest.c 
+==============================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 56
+nodes: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 
+edges: source: 55 dest: 56
+source: 54 dest: 55
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 48 dest: 49
+source: 47 dest: 48
+source: 46 dest: 47
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+source: 34 dest: 35
+source: 33 dest: 34
+source: 32 dest: 33
+source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 19 dest: 20
+source: 18 dest: 19
+source: 17 dest: 18
+source: 16 dest: 17
+source: 15 dest: 16
+source: 14 dest: 15
+source: 13 dest: 14
+source: 12 dest: 13
+source: 11 dest: 12
+source: 10 dest: 11
+source: 9 dest: 10
+source: 8 dest: 9
+source: 7 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 3 dest: 4
+source: 2 dest: 3
+source: 1 dest: 2
+source: 0 dest: 1
+
+
+
+num funcs: 1
+cyclomatic complexity: 1
+=============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/person.c 
+=============================================================================
+=============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/report.c 
+=============================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 5
+nodes: 0 1 2 3 4 5 
+edges: source: 4 dest: 5
+source: 3 dest: 4
+source: 2 dest: 3
+source: 1 dest: 2
+source: 0 dest: 1
+
+
+head: 6
+tail: 14
+nodes: 6 7 8 9 13 10 11 12 14 
+edges: source: 13 dest: 14
+source: 8 dest: 9
+source: 7 dest: 8
+source: 6 dest: 7
+source: 9 dest: 10
+source: 9 dest: 12
+source: 11 dest: 13
+source: 12 dest: 13
+source: 10 dest: 11
+
+
+head: 15
+tail: 57
+nodes: 15 16 17 18 32 19 20 21 26 22 23 24 25 27 28 29 30 31 33 38 34 35 36 37 39 40 45 41 42 43 44 46 47 48 53 49 50 51 52 54 55 56 57 
+edges: source: 56 dest: 57
+source: 55 dest: 56
+source: 54 dest: 55
+source: 53 dest: 54
+source: 47 dest: 48
+source: 46 dest: 47
+source: 45 dest: 46
+source: 39 dest: 40
+source: 38 dest: 39
+source: 32 dest: 33
+source: 17 dest: 18
+source: 16 dest: 17
+source: 15 dest: 16
+source: 18 dest: 19
+source: 31 dest: 18
+source: 18 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 20 dest: 21
+source: 19 dest: 20
+source: 21 dest: 22
+source: 21 dest: 25
+source: 24 dest: 26
+source: 25 dest: 26
+source: 23 dest: 24
+source: 22 dest: 23
+source: 33 dest: 34
+source: 33 dest: 37
+source: 36 dest: 38
+source: 37 dest: 38
+source: 35 dest: 36
+source: 34 dest: 35
+source: 40 dest: 41
+source: 40 dest: 44
+source: 43 dest: 45
+source: 44 dest: 45
+source: 42 dest: 43
+source: 41 dest: 42
+source: 48 dest: 49
+source: 48 dest: 52
+source: 51 dest: 53
+source: 52 dest: 53
+source: 50 dest: 51
+source: 49 dest: 50
+
+
+head: 58
+tail: 82
+nodes: 58 59 60 61 62 70 63 64 65 69 66 67 68 71 72 73 74 79 75 76 77 78 80 81 82 
+edges: source: 81 dest: 82
+source: 80 dest: 81
+source: 79 dest: 80
+source: 73 dest: 74
+source: 72 dest: 73
+source: 71 dest: 72
+source: 70 dest: 71
+source: 61 dest: 62
+source: 60 dest: 61
+source: 59 dest: 60
+source: 58 dest: 59
+source: 62 dest: 63
+source: 69 dest: 62
+source: 62 dest: 70
+source: 64 dest: 65
+source: 63 dest: 64
+source: 65 dest: 66
+source: 65 dest: 68
+source: 67 dest: 69
+source: 68 dest: 69
+source: 66 dest: 67
+source: 74 dest: 75
+source: 74 dest: 78
+source: 77 dest: 79
+source: 78 dest: 79
+source: 76 dest: 77
+source: 75 dest: 76
+
+
+head: 83
+tail: 116
+nodes: 83 84 85 86 87 104 88 89 95 90 91 92 93 94 96 101 97 98 99 100 102 103 105 106 107 108 109 114 110 111 112 113 115 116 
+edges: source: 115 dest: 116
+source: 114 dest: 115
+source: 108 dest: 109
+source: 107 dest: 108
+source: 106 dest: 107
+source: 105 dest: 106
+source: 104 dest: 105
+source: 86 dest: 87
+source: 85 dest: 86
+source: 84 dest: 85
+source: 83 dest: 84
+source: 87 dest: 88
+source: 103 dest: 87
+source: 87 dest: 104
+source: 102 dest: 103
+source: 101 dest: 102
+source: 95 dest: 96
+source: 88 dest: 89
+source: 89 dest: 90
+source: 89 dest: 92
+source: 91 dest: 95
+source: 94 dest: 95
+source: 90 dest: 91
+source: 93 dest: 94
+source: 92 dest: 93
+source: 96 dest: 97
+source: 96 dest: 100
+source: 99 dest: 101
+source: 100 dest: 101
+source: 98 dest: 99
+source: 97 dest: 98
+source: 109 dest: 110
+source: 109 dest: 113
+source: 112 dest: 114
+source: 113 dest: 114
+source: 111 dest: 112
+source: 110 dest: 111
+
+
+
+num funcs: 5
+cyclomatic complexity: 18
+===========================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/room.c 
+===========================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+
+num funcs: 0
+cyclomatic complexity: 0
+===============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/build/security.c 
+===============================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 1
+nodes: 0 1 
+edges: source: 0 dest: 1
+
+
+head: 2
+tail: 3
+nodes: 2 3 
+edges: source: 2 dest: 3
+
+
+head: 4
+tail: 5
+nodes: 4 5 
+edges: source: 4 dest: 5
+
+
+head: 6
+tail: 7
+nodes: 6 7 
+edges: source: 6 dest: 7
+
+
+head: 8
+tail: 9
+nodes: 8 9 
+edges: source: 8 dest: 9
+
+
+head: 10
+tail: 11
+nodes: 10 11 
+edges: source: 10 dest: 11
+
+
+head: 12
+tail: 20
+nodes: 12 13 14 15 16 17 18 19 20 
+edges: source: 19 dest: 20
+source: 18 dest: 19
+source: 17 dest: 18
+source: 16 dest: 17
+source: 15 dest: 16
+source: 14 dest: 15
+source: 13 dest: 14
+source: 12 dest: 13
+
+
+
+num funcs: 7
+cyclomatic complexity: 7
+================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/common.c 
+================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 7
+nodes: 0 1 2 6 3 4 5 7 
+edges: source: 6 dest: 7
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 2 dest: 5
+source: 4 dest: 6
+source: 5 dest: 6
+source: 3 dest: 4
+
+
+head: 8
+tail: 10
+nodes: 8 9 10 
+edges: source: 9 dest: 10
+source: 8 dest: 9
+
+
+head: 11
+tail: 12
+nodes: 11 12 
+edges: source: 11 dest: 12
+
+
+head: 13
+tail: 16
+nodes: 13 14 15 16 
+edges: source: 15 dest: 16
+source: 14 dest: 15
+source: 13 dest: 14
+
+
+head: 17
+tail: 27
+nodes: 17 18 19 26 20 21 25 22 23 24 27 
+edges: source: 26 dest: 27
+source: 18 dest: 19
+source: 17 dest: 18
+source: 19 dest: 20
+source: 25 dest: 19
+source: 19 dest: 26
+source: 20 dest: 21
+source: 21 dest: 22
+source: 21 dest: 24
+source: 23 dest: 25
+source: 24 dest: 25
+source: 22 dest: 23
+
+
+
+num funcs: 5
+cyclomatic complexity: 8
+==================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/database.c 
+==================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 12
+nodes: 0 1 12 2 3 8 4 5 6 7 9 10 11 
+edges: source: 0 dest: 1
+source: 1 dest: 2
+source: 1 dest: 11
+source: 10 dest: 12
+source: 11 dest: 12
+source: 9 dest: 10
+source: 8 dest: 9
+source: 2 dest: 3
+source: 3 dest: 4
+source: 3 dest: 7
+source: 6 dest: 8
+source: 7 dest: 8
+source: 5 dest: 6
+source: 4 dest: 5
+
+
+head: 13
+tail: 15
+nodes: 13 14 15 
+edges: source: 14 dest: 15
+source: 13 dest: 14
+
+
+head: 16
+tail: 18
+nodes: 16 17 18 
+edges: source: 17 dest: 18
+source: 16 dest: 17
+
+
+head: 19
+tail: 86
+nodes: 19 20 21 30 22 23 28 24 25 26 27 29 31 36 32 33 34 35 37 38 43 39 40 41 42 44 49 45 46 47 48 50 51 52 53 54 55 61 56 57 58 59 60 62 67 63 64 65 66 68 69 70 74 71 72 73 75 79 76 77 78 80 84 81 82 83 85 86 
+edges: source: 85 dest: 86
+source: 84 dest: 85
+source: 79 dest: 80
+source: 74 dest: 75
+source: 69 dest: 70
+source: 68 dest: 69
+source: 67 dest: 68
+source: 61 dest: 62
+source: 54 dest: 55
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 43 dest: 44
+source: 37 dest: 38
+source: 36 dest: 37
+source: 30 dest: 31
+source: 20 dest: 21
+source: 19 dest: 20
+source: 21 dest: 22
+source: 21 dest: 29
+source: 28 dest: 30
+source: 29 dest: 30
+source: 22 dest: 23
+source: 23 dest: 24
+source: 23 dest: 27
+source: 26 dest: 28
+source: 27 dest: 28
+source: 25 dest: 26
+source: 24 dest: 25
+source: 31 dest: 32
+source: 31 dest: 35
+source: 34 dest: 36
+source: 35 dest: 36
+source: 33 dest: 34
+source: 32 dest: 33
+source: 38 dest: 39
+source: 38 dest: 42
+source: 41 dest: 43
+source: 42 dest: 43
+source: 40 dest: 41
+source: 39 dest: 40
+source: 44 dest: 45
+source: 44 dest: 48
+source: 47 dest: 49
+source: 48 dest: 49
+source: 46 dest: 47
+source: 45 dest: 46
+source: 55 dest: 56
+source: 55 dest: 60
+source: 59 dest: 61
+source: 60 dest: 61
+source: 58 dest: 59
+source: 57 dest: 58
+source: 56 dest: 57
+source: 62 dest: 63
+source: 62 dest: 66
+source: 65 dest: 67
+source: 66 dest: 67
+source: 64 dest: 65
+source: 63 dest: 64
+source: 70 dest: 71
+source: 70 dest: 73
+source: 72 dest: 74
+source: 73 dest: 74
+source: 71 dest: 72
+source: 75 dest: 76
+source: 75 dest: 78
+source: 77 dest: 79
+source: 78 dest: 79
+source: 76 dest: 77
+source: 80 dest: 81
+source: 80 dest: 83
+source: 82 dest: 84
+source: 83 dest: 84
+source: 81 dest: 82
+
+
+head: 87
+tail: 107
+nodes: 87 88 89 93 90 91 92 94 98 95 96 97 99 104 100 101 102 103 105 106 107 
+edges: source: 106 dest: 107
+source: 105 dest: 106
+source: 104 dest: 105
+source: 98 dest: 99
+source: 93 dest: 94
+source: 88 dest: 89
+source: 87 dest: 88
+source: 89 dest: 90
+source: 89 dest: 92
+source: 91 dest: 93
+source: 92 dest: 93
+source: 90 dest: 91
+source: 94 dest: 95
+source: 94 dest: 97
+source: 96 dest: 98
+source: 97 dest: 98
+source: 95 dest: 96
+source: 99 dest: 100
+source: 99 dest: 103
+source: 102 dest: 104
+source: 103 dest: 104
+source: 101 dest: 102
+source: 100 dest: 101
+
+
+head: 108
+tail: 134
+nodes: 108 109 110 115 111 112 113 114 116 120 117 118 119 121 133 122 123 124 125 126 127 131 128 129 130 132 134 
+edges: source: 133 dest: 134
+source: 120 dest: 121
+source: 115 dest: 116
+source: 109 dest: 110
+source: 108 dest: 109
+source: 110 dest: 111
+source: 110 dest: 113
+source: 112 dest: 115
+source: 114 dest: 115
+source: 111 dest: 112
+source: 113 dest: 114
+source: 116 dest: 117
+source: 116 dest: 119
+source: 118 dest: 120
+source: 119 dest: 120
+source: 117 dest: 118
+source: 121 dest: 122
+source: 121 dest: 132
+source: 131 dest: 133
+source: 132 dest: 133
+source: 126 dest: 127
+source: 125 dest: 126
+source: 124 dest: 125
+source: 123 dest: 124
+source: 122 dest: 123
+source: 127 dest: 128
+source: 127 dest: 130
+source: 129 dest: 131
+source: 130 dest: 131
+source: 128 dest: 129
+
+
+head: 135
+tail: 161
+nodes: 135 136 137 149 138 139 140 141 148 142 143 144 145 146 147 150 154 151 152 153 155 160 156 157 158 159 161 
+edges: source: 160 dest: 161
+source: 154 dest: 155
+source: 149 dest: 150
+source: 136 dest: 137
+source: 135 dest: 136
+source: 137 dest: 138
+source: 137 dest: 141
+source: 140 dest: 149
+source: 148 dest: 149
+source: 139 dest: 140
+source: 138 dest: 139
+source: 141 dest: 142
+source: 141 dest: 145
+source: 144 dest: 148
+source: 147 dest: 148
+source: 143 dest: 144
+source: 142 dest: 143
+source: 146 dest: 147
+source: 145 dest: 146
+source: 150 dest: 151
+source: 150 dest: 153
+source: 152 dest: 154
+source: 153 dest: 154
+source: 151 dest: 152
+source: 155 dest: 156
+source: 155 dest: 159
+source: 158 dest: 160
+source: 159 dest: 160
+source: 157 dest: 158
+source: 156 dest: 157
+
+
+
+num funcs: 7
+cyclomatic complexity: 30
+=================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/journal.c 
+=================================================================================
+===================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/logappend.c 
+===================================================================================
+=================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/logdump.c 
+=================================================================================
+=================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/logread.c 
+=================================================================================
+=================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/logtest.c 
+=================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 56
+nodes: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 
+edges: source: 55 dest: 56
+source: 54 dest: 55
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 48 dest: 49
+source: 47 dest: 48
+source: 46 dest: 47
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+source: 34 dest: 35
+source: 33 dest: 34
+source: 32 dest: 33
+source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 19 dest: 20
+source: 18 dest: 19
+source: 17 dest: 18
+source: 16 dest: 17
+source: 15 dest: 16
+source: 14 dest: 15
+source: 13 dest: 14
+source: 12 dest: 13
+source: 11 dest: 12
+source: 10 dest: 11
+source: 9 dest: 10
+source: 8 dest: 9
+source: 7 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 3 dest: 4
+source: 2 dest: 3
+source: 1 dest: 2
+source: 0 dest: 1
+
+
+
+num funcs: 1
+cyclomatic complexity: 1
+================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/person.c 
+================================================================================
+================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/report.c 
+================================================================================
+==============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/room.c 
+==============================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+
+num funcs: 0
+cyclomatic complexity: 0
+==================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/fix/code/security.c 
+==================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 1
+nodes: 0 1 
+edges: source: 0 dest: 1
+
+
+head: 2
+tail: 3
+nodes: 2 3 
+edges: source: 2 dest: 3
+
+
+head: 4
+tail: 5
+nodes: 4 5 
+edges: source: 4 dest: 5
+
+
+head: 6
+tail: 7
+nodes: 6 7 
+edges: source: 6 dest: 7
+
+
+head: 8
+tail: 9
+nodes: 8 9 
+edges: source: 8 dest: 9
+
+
+head: 10
+tail: 11
+nodes: 10 11 
+edges: source: 10 dest: 11
+
+
+head: 12
+tail: 20
+nodes: 12 13 14 15 16 17 18 19 20 
+edges: source: 19 dest: 20
+source: 18 dest: 19
+source: 17 dest: 18
+source: 16 dest: 17
+source: 15 dest: 16
+source: 14 dest: 15
+source: 13 dest: 14
+source: 12 dest: 13
+
+
+
+num funcs: 7
+cyclomatic complexity: 7
+==========================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/sandbox/a.c 
+==========================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 25
+nodes: 0 1 2 6 3 4 5 7 11 8 9 10 12 16 13 14 15 17 18 19 20 21 22 23 24 25 
+edges: source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 19 dest: 20
+source: 18 dest: 19
+source: 17 dest: 18
+source: 16 dest: 17
+source: 11 dest: 12
+source: 6 dest: 7
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 2 dest: 5
+source: 4 dest: 6
+source: 5 dest: 6
+source: 3 dest: 4
+source: 7 dest: 8
+source: 7 dest: 10
+source: 9 dest: 11
+source: 10 dest: 11
+source: 8 dest: 9
+source: 12 dest: 13
+source: 12 dest: 15
+source: 14 dest: 16
+source: 15 dest: 16
+source: 13 dest: 14
+
+
+head: 26
+tail: 62
+nodes: 26 27 28 29 30 34 31 32 33 35 36 37 38 39 45 40 41 42 43 44 46 47 48 53 49 50 51 52 54 55 60 56 57 58 59 61 62 
+edges: source: 61 dest: 62
+source: 60 dest: 61
+source: 54 dest: 55
+source: 53 dest: 54
+source: 47 dest: 48
+source: 46 dest: 47
+source: 45 dest: 46
+source: 38 dest: 39
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+source: 34 dest: 35
+source: 29 dest: 30
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 30 dest: 31
+source: 30 dest: 33
+source: 32 dest: 34
+source: 33 dest: 34
+source: 31 dest: 32
+source: 39 dest: 40
+source: 39 dest: 44
+source: 43 dest: 45
+source: 44 dest: 45
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 48 dest: 49
+source: 48 dest: 52
+source: 51 dest: 53
+source: 52 dest: 53
+source: 50 dest: 51
+source: 49 dest: 50
+source: 55 dest: 56
+source: 55 dest: 59
+source: 58 dest: 60
+source: 59 dest: 60
+source: 57 dest: 58
+source: 56 dest: 57
+
+
+head: 63
+tail: 76
+nodes: 63 64 65 66 67 68 69 70 71 72 73 74 75 76 
+edges: source: 75 dest: 76
+source: 74 dest: 75
+source: 73 dest: 74
+source: 72 dest: 73
+source: 71 dest: 72
+source: 70 dest: 71
+source: 69 dest: 70
+source: 68 dest: 69
+source: 67 dest: 68
+source: 66 dest: 67
+source: 65 dest: 66
+source: 64 dest: 65
+source: 63 dest: 64
+
+
+
+num funcs: 3
+cyclomatic complexity: 10
+=================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/sandbox/bz2-test.c 
+=================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 21
+nodes: 0 1 2 3 4 5 6 7 8 13 9 10 11 12 14 15 20 16 17 18 19 21 
+edges: source: 20 dest: 21
+source: 14 dest: 15
+source: 13 dest: 14
+source: 7 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 3 dest: 4
+source: 2 dest: 3
+source: 1 dest: 2
+source: 0 dest: 1
+source: 8 dest: 9
+source: 8 dest: 12
+source: 11 dest: 13
+source: 12 dest: 13
+source: 10 dest: 11
+source: 9 dest: 10
+source: 15 dest: 16
+source: 15 dest: 19
+source: 18 dest: 20
+source: 19 dest: 20
+source: 17 dest: 18
+source: 16 dest: 17
+
+
+head: 22
+tail: 32
+nodes: 22 23 24 25 26 29 27 28 30 31 32 
+edges: source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 26 dest: 27
+source: 28 dest: 26
+source: 26 dest: 29
+source: 27 dest: 28
+
+
+head: 33
+tail: 52
+nodes: 33 34 35 36 37 42 38 39 40 41 43 44 45 46 51 47 48 49 50 52 
+edges: source: 51 dest: 52
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+source: 42 dest: 43
+source: 36 dest: 37
+source: 35 dest: 36
+source: 34 dest: 35
+source: 33 dest: 34
+source: 37 dest: 38
+source: 37 dest: 41
+source: 40 dest: 42
+source: 41 dest: 42
+source: 39 dest: 40
+source: 38 dest: 39
+source: 46 dest: 47
+source: 46 dest: 50
+source: 49 dest: 51
+source: 50 dest: 51
+source: 48 dest: 49
+source: 47 dest: 48
+
+
+
+num funcs: 3
+cyclomatic complexity: 8
+=================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/sandbox/gbz-test.c 
+=================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 26
+nodes: 0 1 2 6 3 4 5 7 11 8 9 10 12 16 13 14 15 17 18 19 20 21 22 23 24 25 26 
+edges: source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 19 dest: 20
+source: 18 dest: 19
+source: 17 dest: 18
+source: 16 dest: 17
+source: 11 dest: 12
+source: 6 dest: 7
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 2 dest: 5
+source: 4 dest: 6
+source: 5 dest: 6
+source: 3 dest: 4
+source: 7 dest: 8
+source: 7 dest: 10
+source: 9 dest: 11
+source: 10 dest: 11
+source: 8 dest: 9
+source: 12 dest: 13
+source: 12 dest: 15
+source: 14 dest: 16
+source: 15 dest: 16
+source: 13 dest: 14
+
+
+head: 27
+tail: 45
+nodes: 27 28 29 33 30 31 32 34 38 35 36 37 39 40 41 42 43 44 45 
+edges: source: 44 dest: 45
+source: 43 dest: 44
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 33 dest: 34
+source: 28 dest: 29
+source: 27 dest: 28
+source: 29 dest: 30
+source: 29 dest: 32
+source: 31 dest: 33
+source: 32 dest: 33
+source: 30 dest: 31
+source: 34 dest: 35
+source: 34 dest: 37
+source: 36 dest: 38
+source: 37 dest: 38
+source: 35 dest: 36
+
+
+head: 46
+tail: 99
+nodes: 46 47 48 49 50 51 52 56 53 54 55 57 58 59 60 61 62 63 69 64 65 66 67 68 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 89 85 86 87 88 90 91 96 92 93 94 95 97 98 99 
+edges: source: 98 dest: 99
+source: 97 dest: 98
+source: 96 dest: 97
+source: 90 dest: 91
+source: 89 dest: 90
+source: 83 dest: 84
+source: 82 dest: 83
+source: 81 dest: 82
+source: 80 dest: 81
+source: 79 dest: 80
+source: 78 dest: 79
+source: 77 dest: 78
+source: 76 dest: 77
+source: 75 dest: 76
+source: 74 dest: 75
+source: 73 dest: 74
+source: 72 dest: 73
+source: 71 dest: 72
+source: 70 dest: 71
+source: 69 dest: 70
+source: 62 dest: 63
+source: 61 dest: 62
+source: 60 dest: 61
+source: 59 dest: 60
+source: 58 dest: 59
+source: 57 dest: 58
+source: 56 dest: 57
+source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 48 dest: 49
+source: 47 dest: 48
+source: 46 dest: 47
+source: 52 dest: 53
+source: 52 dest: 55
+source: 54 dest: 56
+source: 55 dest: 56
+source: 53 dest: 54
+source: 63 dest: 64
+source: 63 dest: 68
+source: 67 dest: 69
+source: 68 dest: 69
+source: 66 dest: 67
+source: 65 dest: 66
+source: 64 dest: 65
+source: 84 dest: 85
+source: 84 dest: 88
+source: 87 dest: 89
+source: 88 dest: 89
+source: 86 dest: 87
+source: 85 dest: 86
+source: 91 dest: 92
+source: 91 dest: 95
+source: 94 dest: 96
+source: 95 dest: 96
+source: 93 dest: 94
+source: 92 dest: 93
+
+
+head: 100
+tail: 117
+nodes: 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 
+edges: source: 116 dest: 117
+source: 115 dest: 116
+source: 114 dest: 115
+source: 113 dest: 114
+source: 112 dest: 113
+source: 111 dest: 112
+source: 110 dest: 111
+source: 109 dest: 110
+source: 108 dest: 109
+source: 107 dest: 108
+source: 106 dest: 107
+source: 105 dest: 106
+source: 104 dest: 105
+source: 103 dest: 104
+source: 102 dest: 103
+source: 101 dest: 102
+source: 100 dest: 101
+
+
+
+num funcs: 4
+cyclomatic complexity: 13
+====================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/sandbox/gcrypt-test.c 
+====================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 26
+nodes: 0 1 2 6 3 4 5 7 11 8 9 10 12 16 13 14 15 17 18 19 20 21 22 23 24 25 26 
+edges: source: 25 dest: 26
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 19 dest: 20
+source: 18 dest: 19
+source: 17 dest: 18
+source: 16 dest: 17
+source: 11 dest: 12
+source: 6 dest: 7
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 2 dest: 5
+source: 4 dest: 6
+source: 5 dest: 6
+source: 3 dest: 4
+source: 7 dest: 8
+source: 7 dest: 10
+source: 9 dest: 11
+source: 10 dest: 11
+source: 8 dest: 9
+source: 12 dest: 13
+source: 12 dest: 15
+source: 14 dest: 16
+source: 15 dest: 16
+source: 13 dest: 14
+
+
+head: 27
+tail: 45
+nodes: 27 28 29 33 30 31 32 34 38 35 36 37 39 40 41 42 43 44 45 
+edges: source: 44 dest: 45
+source: 43 dest: 44
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 33 dest: 34
+source: 28 dest: 29
+source: 27 dest: 28
+source: 29 dest: 30
+source: 29 dest: 32
+source: 31 dest: 33
+source: 32 dest: 33
+source: 30 dest: 31
+source: 34 dest: 35
+source: 34 dest: 37
+source: 36 dest: 38
+source: 37 dest: 38
+source: 35 dest: 36
+
+
+head: 46
+tail: 88
+nodes: 46 47 48 49 50 51 52 56 53 54 55 57 58 59 60 61 62 63 69 64 65 66 67 68 70 71 72 73 78 74 75 76 77 79 80 85 81 82 83 84 86 87 88 
+edges: source: 87 dest: 88
+source: 86 dest: 87
+source: 85 dest: 86
+source: 79 dest: 80
+source: 78 dest: 79
+source: 72 dest: 73
+source: 71 dest: 72
+source: 70 dest: 71
+source: 69 dest: 70
+source: 62 dest: 63
+source: 61 dest: 62
+source: 60 dest: 61
+source: 59 dest: 60
+source: 58 dest: 59
+source: 57 dest: 58
+source: 56 dest: 57
+source: 51 dest: 52
+source: 50 dest: 51
+source: 49 dest: 50
+source: 48 dest: 49
+source: 47 dest: 48
+source: 46 dest: 47
+source: 52 dest: 53
+source: 52 dest: 55
+source: 54 dest: 56
+source: 55 dest: 56
+source: 53 dest: 54
+source: 63 dest: 64
+source: 63 dest: 68
+source: 67 dest: 69
+source: 68 dest: 69
+source: 66 dest: 67
+source: 65 dest: 66
+source: 64 dest: 65
+source: 73 dest: 74
+source: 73 dest: 77
+source: 76 dest: 78
+source: 77 dest: 78
+source: 75 dest: 76
+source: 74 dest: 75
+source: 80 dest: 81
+source: 80 dest: 84
+source: 83 dest: 85
+source: 84 dest: 85
+source: 82 dest: 83
+source: 81 dest: 82
+
+
+head: 89
+tail: 106
+nodes: 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 
+edges: source: 105 dest: 106
+source: 104 dest: 105
+source: 103 dest: 104
+source: 102 dest: 103
+source: 101 dest: 102
+source: 100 dest: 101
+source: 99 dest: 100
+source: 98 dest: 99
+source: 97 dest: 98
+source: 96 dest: 97
+source: 95 dest: 96
+source: 94 dest: 95
+source: 93 dest: 94
+source: 92 dest: 93
+source: 91 dest: 92
+source: 90 dest: 91
+source: 89 dest: 90
+
+
+
+num funcs: 4
+cyclomatic complexity: 13
+====================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/109/sandbox/sqlite-test.c 
+====================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 7
+nodes: 0 1 7 2 3 4 5 6 
+edges: source: 0 dest: 1
+source: 1 dest: 2
+source: 1 dest: 6
+source: 5 dest: 7
+source: 6 dest: 7
+source: 4 dest: 5
+source: 3 dest: 4
+source: 2 dest: 3
+
+
+head: 8
+tail: 32
+nodes: 8 9 10 21 11 12 18 13 14 15 16 17 19 20 22 23 24 28 25 26 27 29 30 31 32 
+edges: source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 9 dest: 10
+source: 8 dest: 9
+source: 10 dest: 11
+source: 10 dest: 20
+source: 19 dest: 21
+source: 20 dest: 21
+source: 18 dest: 19
+source: 11 dest: 12
+source: 12 dest: 13
+source: 12 dest: 17
+source: 16 dest: 18
+source: 17 dest: 18
+source: 15 dest: 16
+source: 14 dest: 15
+source: 13 dest: 14
+source: 24 dest: 25
+source: 24 dest: 27
+source: 26 dest: 28
+source: 27 dest: 28
+source: 25 dest: 26
+
+
+head: 33
+tail: 58
+nodes: 33 34 35 36 37 43 38 39 40 41 42 44 45 50 46 47 48 49 51 52 53 54 55 56 57 58 
+edges: source: 57 dest: 58
+source: 56 dest: 57
+source: 55 dest: 56
+source: 54 dest: 55
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 50 dest: 51
+source: 44 dest: 45
+source: 43 dest: 44
+source: 36 dest: 37
+source: 35 dest: 36
+source: 34 dest: 35
+source: 33 dest: 34
+source: 37 dest: 38
+source: 37 dest: 42
+source: 41 dest: 43
+source: 42 dest: 43
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 45 dest: 46
+source: 45 dest: 49
+source: 48 dest: 50
+source: 49 dest: 50
+source: 47 dest: 48
+source: 46 dest: 47
+
+
+head: 59
+tail: 74
+nodes: 59 60 61 62 65 63 64 66 71 67 68 69 70 72 73 74 
+edges: source: 73 dest: 74
+source: 72 dest: 73
+source: 71 dest: 72
+source: 65 dest: 66
+source: 61 dest: 62
+source: 60 dest: 61
+source: 59 dest: 60
+source: 62 dest: 63
+source: 64 dest: 62
+source: 62 dest: 65
+source: 63 dest: 64
+source: 66 dest: 67
+source: 66 dest: 70
+source: 69 dest: 71
+source: 70 dest: 71
+source: 68 dest: 69
+source: 67 dest: 68
+
+
+head: 75
+tail: 100
+nodes: 75 76 77 78 79 80 85 81 82 83 84 86 92 87 88 89 90 91 93 94 99 95 96 97 98 100 
+edges: source: 99 dest: 100
+source: 93 dest: 94
+source: 92 dest: 93
+source: 85 dest: 86
+source: 79 dest: 80
+source: 78 dest: 79
+source: 77 dest: 78
+source: 76 dest: 77
+source: 75 dest: 76
+source: 80 dest: 81
+source: 80 dest: 84
+source: 83 dest: 85
+source: 84 dest: 85
+source: 82 dest: 83
+source: 81 dest: 82
+source: 86 dest: 87
+source: 86 dest: 91
+source: 90 dest: 92
+source: 91 dest: 92
+source: 89 dest: 90
+source: 88 dest: 89
+source: 87 dest: 88
+source: 94 dest: 95
+source: 94 dest: 98
+source: 97 dest: 99
+source: 98 dest: 99
+source: 96 dest: 97
+source: 95 dest: 96
+
+
+
+num funcs: 5
+cyclomatic complexity: 16
+=================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/131/build/log_common.c 
+=================================================================================
+================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/131/build/logappend.c 
+================================================================================
+==============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/131/build/logread.c 
+==============================================================================
+======================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/aes.c 
+======================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 4
+nodes: 0 1 4 2 3 
+edges: source: 0 dest: 1
+source: 1 dest: 2
+source: 3 dest: 1
+source: 1 dest: 4
+source: 2 dest: 3
+
+
+head: 5
+tail: 11
+nodes: 5 6 7 8 9 10 11 
+edges: source: 10 dest: 11
+source: 9 dest: 10
+source: 8 dest: 9
+source: 7 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 12
+tail: 17
+nodes: 12 13 16 14 15 17 
+edges: source: 16 dest: 17
+source: 12 dest: 13
+source: 13 dest: 14
+source: 15 dest: 13
+source: 13 dest: 16
+source: 14 dest: 15
+
+
+head: 18
+tail: 47
+nodes: 18 19 43 20 21 22 23 24 25 41 26 27 28 29 33 30 31 32 34 35 36 40 37 38 39 42 44 45 46 47 
+edges: source: 46 dest: 47
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+source: 18 dest: 19
+source: 19 dest: 20
+source: 42 dest: 19
+source: 19 dest: 43
+source: 41 dest: 42
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 25 dest: 26
+source: 25 dest: 36
+source: 35 dest: 41
+source: 40 dest: 41
+source: 34 dest: 35
+source: 33 dest: 34
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 29 dest: 30
+source: 29 dest: 32
+source: 31 dest: 33
+source: 32 dest: 33
+source: 30 dest: 31
+source: 36 dest: 37
+source: 36 dest: 39
+source: 38 dest: 40
+source: 39 dest: 40
+source: 37 dest: 38
+
+
+head: 48
+tail: 56
+nodes: 48 49 55 50 51 54 52 53 56 
+edges: source: 55 dest: 56
+source: 48 dest: 49
+source: 49 dest: 50
+source: 54 dest: 49
+source: 49 dest: 55
+source: 50 dest: 51
+source: 51 dest: 52
+source: 53 dest: 51
+source: 51 dest: 54
+source: 52 dest: 53
+
+
+head: 57
+tail: 65
+nodes: 57 58 64 59 60 63 61 62 65 
+edges: source: 64 dest: 65
+source: 57 dest: 58
+source: 58 dest: 59
+source: 63 dest: 58
+source: 58 dest: 64
+source: 59 dest: 60
+source: 60 dest: 61
+source: 62 dest: 60
+source: 60 dest: 63
+source: 61 dest: 62
+
+
+head: 66
+tail: 83
+nodes: 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 
+edges: source: 82 dest: 83
+source: 81 dest: 82
+source: 80 dest: 81
+source: 79 dest: 80
+source: 78 dest: 79
+source: 77 dest: 78
+source: 76 dest: 77
+source: 75 dest: 76
+source: 74 dest: 75
+source: 73 dest: 74
+source: 72 dest: 73
+source: 71 dest: 72
+source: 70 dest: 71
+source: 69 dest: 70
+source: 68 dest: 69
+source: 67 dest: 68
+source: 66 dest: 67
+
+
+head: 84
+tail: 85
+nodes: 84 85 
+edges: source: 84 dest: 85
+
+
+head: 86
+tail: 98
+nodes: 86 87 88 96 89 90 91 95 92 93 94 97 98 
+edges: source: 97 dest: 98
+source: 96 dest: 97
+source: 87 dest: 88
+source: 86 dest: 87
+source: 88 dest: 89
+source: 95 dest: 88
+source: 88 dest: 96
+source: 90 dest: 91
+source: 89 dest: 90
+source: 91 dest: 92
+source: 91 dest: 94
+source: 93 dest: 95
+source: 94 dest: 95
+source: 92 dest: 93
+
+
+head: 99
+tail: 112
+nodes: 99 100 110 101 102 103 104 105 106 107 108 109 111 112 
+edges: source: 111 dest: 112
+source: 110 dest: 111
+source: 99 dest: 100
+source: 100 dest: 101
+source: 109 dest: 100
+source: 100 dest: 110
+source: 108 dest: 109
+source: 107 dest: 108
+source: 106 dest: 107
+source: 105 dest: 106
+source: 104 dest: 105
+source: 103 dest: 104
+source: 102 dest: 103
+source: 101 dest: 102
+
+
+head: 113
+tail: 146
+nodes: 113 114 120 115 116 119 117 118 121 131 122 123 124 128 125 126 127 129 130 132 133 134 135 141 136 137 140 138 139 142 143 144 145 146 
+edges: source: 145 dest: 146
+source: 144 dest: 145
+source: 143 dest: 144
+source: 142 dest: 143
+source: 141 dest: 142
+source: 134 dest: 135
+source: 133 dest: 134
+source: 132 dest: 133
+source: 131 dest: 132
+source: 120 dest: 121
+source: 113 dest: 114
+source: 114 dest: 115
+source: 119 dest: 114
+source: 114 dest: 120
+source: 115 dest: 116
+source: 116 dest: 117
+source: 118 dest: 116
+source: 116 dest: 119
+source: 117 dest: 118
+source: 121 dest: 122
+source: 130 dest: 121
+source: 121 dest: 131
+source: 129 dest: 130
+source: 128 dest: 129
+source: 123 dest: 124
+source: 122 dest: 123
+source: 124 dest: 125
+source: 124 dest: 127
+source: 126 dest: 128
+source: 127 dest: 128
+source: 125 dest: 126
+source: 135 dest: 136
+source: 140 dest: 135
+source: 135 dest: 141
+source: 136 dest: 137
+source: 137 dest: 138
+source: 139 dest: 137
+source: 137 dest: 140
+source: 138 dest: 139
+
+
+head: 147
+tail: 164
+nodes: 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 
+edges: source: 163 dest: 164
+source: 162 dest: 163
+source: 161 dest: 162
+source: 160 dest: 161
+source: 159 dest: 160
+source: 158 dest: 159
+source: 157 dest: 158
+source: 156 dest: 157
+source: 155 dest: 156
+source: 154 dest: 155
+source: 153 dest: 154
+source: 152 dest: 153
+source: 151 dest: 152
+source: 150 dest: 151
+source: 149 dest: 150
+source: 148 dest: 149
+source: 147 dest: 148
+
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 165
+tail: 173
+nodes: 165 166 172 167 168 171 169 170 173 
+edges: source: 172 dest: 173
+source: 165 dest: 166
+source: 166 dest: 167
+source: 171 dest: 166
+source: 166 dest: 172
+source: 167 dest: 168
+source: 168 dest: 169
+source: 170 dest: 168
+source: 168 dest: 171
+source: 169 dest: 170
+
+
+head: 174
+tail: 187
+nodes: 174 175 185 176 177 178 179 180 181 182 183 184 186 187 
+edges: source: 186 dest: 187
+source: 185 dest: 186
+source: 174 dest: 175
+source: 175 dest: 176
+source: 184 dest: 175
+source: 175 dest: 185
+source: 183 dest: 184
+source: 182 dest: 183
+source: 181 dest: 182
+source: 180 dest: 181
+source: 179 dest: 180
+source: 178 dest: 179
+source: 177 dest: 178
+source: 176 dest: 177
+
+
+head: 188
+tail: 221
+nodes: 188 189 195 190 191 194 192 193 196 206 197 198 202 199 200 201 203 204 205 207 208 209 210 216 211 212 215 213 214 217 218 219 220 221 
+edges: source: 220 dest: 221
+source: 219 dest: 220
+source: 218 dest: 219
+source: 217 dest: 218
+source: 216 dest: 217
+source: 209 dest: 210
+source: 208 dest: 209
+source: 207 dest: 208
+source: 206 dest: 207
+source: 195 dest: 196
+source: 188 dest: 189
+source: 189 dest: 190
+source: 194 dest: 189
+source: 189 dest: 195
+source: 190 dest: 191
+source: 191 dest: 192
+source: 193 dest: 191
+source: 191 dest: 194
+source: 192 dest: 193
+source: 196 dest: 197
+source: 205 dest: 196
+source: 196 dest: 206
+source: 204 dest: 205
+source: 203 dest: 204
+source: 202 dest: 203
+source: 197 dest: 198
+source: 198 dest: 199
+source: 198 dest: 201
+source: 200 dest: 202
+source: 201 dest: 202
+source: 199 dest: 200
+source: 210 dest: 211
+source: 215 dest: 210
+source: 210 dest: 216
+source: 211 dest: 212
+source: 212 dest: 213
+source: 214 dest: 212
+source: 212 dest: 215
+source: 213 dest: 214
+
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 222
+tail: 233
+nodes: 222 223 232 224 225 226 227 228 229 230 231 233 
+edges: source: 232 dest: 233
+source: 222 dest: 223
+source: 223 dest: 224
+source: 231 dest: 223
+source: 223 dest: 232
+source: 230 dest: 231
+source: 229 dest: 230
+source: 228 dest: 229
+source: 227 dest: 228
+source: 226 dest: 227
+source: 225 dest: 226
+source: 224 dest: 225
+
+
+head: 234
+tail: 243
+nodes: 234 235 243 236 237 238 239 240 241 242 
+edges: source: 234 dest: 235
+source: 235 dest: 236
+source: 242 dest: 235
+source: 235 dest: 243
+source: 241 dest: 242
+source: 240 dest: 241
+source: 239 dest: 240
+source: 238 dest: 239
+source: 237 dest: 238
+source: 236 dest: 237
+
+
+head: 244
+tail: 245
+nodes: 244 245 
+edges: source: 244 dest: 245
+
+
+head: 246
+tail: 247
+nodes: 246 247 
+edges: source: 246 dest: 247
+
+
+head: 248
+tail: 249
+nodes: 248 249 
+edges: source: 248 dest: 249
+
+
+head: 250
+tail: 251
+nodes: 250 251 
+edges: source: 250 dest: 251
+
+
+
+num funcs: 21
+cyclomatic complexity: 51
+======================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/hex.c 
+======================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 17
+nodes: 0 1 2 15 3 4 5 6 7 8 9 12 10 11 13 14 16 17 
+edges: source: 16 dest: 17
+source: 15 dest: 16
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 2 dest: 8
+source: 7 dest: 15
+source: 14 dest: 15
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 3 dest: 4
+source: 13 dest: 14
+source: 12 dest: 13
+source: 8 dest: 9
+source: 9 dest: 10
+source: 11 dest: 9
+source: 9 dest: 12
+source: 10 dest: 11
+
+
+head: 18
+tail: 23
+nodes: 18 19 20 23 21 22 
+edges: source: 19 dest: 20
+source: 18 dest: 19
+source: 20 dest: 21
+source: 22 dest: 20
+source: 20 dest: 23
+source: 21 dest: 22
+
+
+
+num funcs: 2
+cyclomatic complexity: 5
+=======================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/list.c 
+=======================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 49
+nodes: 0 1 8 2 3 4 5 6 7 9 25 10 11 12 24 13 14 22 15 16 17 18 19 20 21 23 26 27 33 28 29 30 31 32 34 40 35 36 37 38 39 41 42 47 43 44 45 46 48 49 
+edges: source: 48 dest: 49
+source: 47 dest: 48
+source: 41 dest: 42
+source: 40 dest: 41
+source: 33 dest: 34
+source: 26 dest: 27
+source: 25 dest: 26
+source: 8 dest: 9
+source: 0 dest: 1
+source: 1 dest: 2
+source: 1 dest: 4
+source: 3 dest: 8
+source: 7 dest: 8
+source: 2 dest: 3
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 9 dest: 10
+source: 24 dest: 9
+source: 9 dest: 25
+source: 11 dest: 12
+source: 10 dest: 11
+source: 12 dest: 13
+source: 12 dest: 23
+source: 22 dest: 24
+source: 23 dest: 24
+source: 13 dest: 14
+source: 14 dest: 15
+source: 14 dest: 19
+source: 18 dest: 22
+source: 21 dest: 22
+source: 17 dest: 18
+source: 16 dest: 17
+source: 15 dest: 16
+source: 20 dest: 21
+source: 19 dest: 20
+source: 27 dest: 28
+source: 27 dest: 32
+source: 31 dest: 33
+source: 32 dest: 33
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 34 dest: 35
+source: 34 dest: 39
+source: 38 dest: 40
+source: 39 dest: 40
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+source: 42 dest: 43
+source: 42 dest: 46
+source: 45 dest: 47
+source: 46 dest: 47
+source: 44 dest: 45
+source: 43 dest: 44
+
+
+head: 50
+tail: 86
+nodes: 50 51 54 52 53 55 70 56 57 61 58 59 60 62 69 63 64 65 66 67 68 71 78 72 73 74 75 76 77 79 83 80 81 82 84 85 86 
+edges: source: 85 dest: 86
+source: 84 dest: 85
+source: 83 dest: 84
+source: 78 dest: 79
+source: 70 dest: 71
+source: 54 dest: 55
+source: 50 dest: 51
+source: 51 dest: 52
+source: 51 dest: 53
+source: 52 dest: 54
+source: 53 dest: 54
+source: 55 dest: 56
+source: 69 dest: 55
+source: 55 dest: 70
+source: 61 dest: 62
+source: 56 dest: 57
+source: 57 dest: 58
+source: 57 dest: 60
+source: 59 dest: 61
+source: 60 dest: 61
+source: 58 dest: 59
+source: 62 dest: 63
+source: 62 dest: 68
+source: 67 dest: 69
+source: 68 dest: 69
+source: 66 dest: 67
+source: 65 dest: 66
+source: 64 dest: 65
+source: 63 dest: 64
+source: 71 dest: 72
+source: 71 dest: 77
+source: 76 dest: 78
+source: 77 dest: 78
+source: 75 dest: 76
+source: 74 dest: 75
+source: 73 dest: 74
+source: 72 dest: 73
+source: 79 dest: 80
+source: 79 dest: 82
+source: 81 dest: 83
+source: 82 dest: 83
+source: 80 dest: 81
+
+
+head: 87
+tail: 102
+nodes: 87 88 89 90 99 91 92 93 94 95 98 96 97 100 101 102 
+edges: source: 101 dest: 102
+source: 100 dest: 101
+source: 99 dest: 100
+source: 89 dest: 90
+source: 88 dest: 89
+source: 87 dest: 88
+source: 90 dest: 91
+source: 98 dest: 90
+source: 90 dest: 99
+source: 94 dest: 95
+source: 93 dest: 94
+source: 92 dest: 93
+source: 91 dest: 92
+source: 95 dest: 96
+source: 95 dest: 97
+source: 96 dest: 98
+source: 97 dest: 98
+
+
+head: 103
+tail: 152
+nodes: 103 104 111 105 106 107 108 109 110 112 128 113 114 115 127 116 117 125 118 119 120 121 122 123 124 126 129 130 136 131 132 133 134 135 137 143 138 139 140 141 142 144 145 150 146 147 148 149 151 152 
+edges: source: 151 dest: 152
+source: 150 dest: 151
+source: 144 dest: 145
+source: 143 dest: 144
+source: 136 dest: 137
+source: 129 dest: 130
+source: 128 dest: 129
+source: 111 dest: 112
+source: 103 dest: 104
+source: 104 dest: 105
+source: 104 dest: 107
+source: 106 dest: 111
+source: 110 dest: 111
+source: 105 dest: 106
+source: 109 dest: 110
+source: 108 dest: 109
+source: 107 dest: 108
+source: 112 dest: 113
+source: 127 dest: 112
+source: 112 dest: 128
+source: 114 dest: 115
+source: 113 dest: 114
+source: 115 dest: 116
+source: 115 dest: 126
+source: 125 dest: 127
+source: 126 dest: 127
+source: 116 dest: 117
+source: 117 dest: 118
+source: 117 dest: 122
+source: 121 dest: 125
+source: 124 dest: 125
+source: 120 dest: 121
+source: 119 dest: 120
+source: 118 dest: 119
+source: 123 dest: 124
+source: 122 dest: 123
+source: 130 dest: 131
+source: 130 dest: 135
+source: 134 dest: 136
+source: 135 dest: 136
+source: 133 dest: 134
+source: 132 dest: 133
+source: 131 dest: 132
+source: 137 dest: 138
+source: 137 dest: 142
+source: 141 dest: 143
+source: 142 dest: 143
+source: 140 dest: 141
+source: 139 dest: 140
+source: 138 dest: 139
+source: 145 dest: 146
+source: 145 dest: 149
+source: 148 dest: 150
+source: 149 dest: 150
+source: 147 dest: 148
+source: 146 dest: 147
+
+
+head: 153
+tail: 189
+nodes: 153 154 157 155 156 158 173 159 160 164 161 162 163 165 172 166 167 168 169 170 171 174 181 175 176 177 178 179 180 182 186 183 184 185 187 188 189 
+edges: source: 188 dest: 189
+source: 187 dest: 188
+source: 186 dest: 187
+source: 181 dest: 182
+source: 173 dest: 174
+source: 157 dest: 158
+source: 153 dest: 154
+source: 154 dest: 155
+source: 154 dest: 156
+source: 155 dest: 157
+source: 156 dest: 157
+source: 158 dest: 159
+source: 172 dest: 158
+source: 158 dest: 173
+source: 164 dest: 165
+source: 159 dest: 160
+source: 160 dest: 161
+source: 160 dest: 163
+source: 162 dest: 164
+source: 163 dest: 164
+source: 161 dest: 162
+source: 165 dest: 166
+source: 165 dest: 171
+source: 170 dest: 172
+source: 171 dest: 172
+source: 169 dest: 170
+source: 168 dest: 169
+source: 167 dest: 168
+source: 166 dest: 167
+source: 174 dest: 175
+source: 174 dest: 180
+source: 179 dest: 181
+source: 180 dest: 181
+source: 178 dest: 179
+source: 177 dest: 178
+source: 176 dest: 177
+source: 175 dest: 176
+source: 182 dest: 183
+source: 182 dest: 185
+source: 184 dest: 186
+source: 185 dest: 186
+source: 183 dest: 184
+
+
+head: 190
+tail: 202
+nodes: 190 191 192 193 200 194 195 196 197 198 199 201 202 
+edges: source: 201 dest: 202
+source: 200 dest: 201
+source: 192 dest: 193
+source: 191 dest: 192
+source: 190 dest: 191
+source: 193 dest: 194
+source: 199 dest: 193
+source: 193 dest: 200
+source: 198 dest: 199
+source: 197 dest: 198
+source: 196 dest: 197
+source: 195 dest: 196
+source: 194 dest: 195
+
+
+
+num funcs: 6
+cyclomatic complexity: 35
+============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/logappend.c 
+============================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 25
+nodes: 0 1 2 20 3 4 6 5 7 8 19 9 10 17 11 12 15 13 14 16 18 21 22 23 24 25 
+edges: source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 2 dest: 8
+source: 7 dest: 20
+source: 19 dest: 20
+source: 6 dest: 7
+source: 3 dest: 4
+source: 4 dest: 5
+source: 5 dest: 4
+source: 4 dest: 6
+source: 8 dest: 9
+source: 8 dest: 18
+source: 17 dest: 19
+source: 18 dest: 19
+source: 9 dest: 10
+source: 10 dest: 11
+source: 16 dest: 10
+source: 10 dest: 17
+source: 15 dest: 16
+source: 11 dest: 12
+source: 12 dest: 13
+source: 12 dest: 14
+source: 13 dest: 15
+source: 14 dest: 15
+
+
+head: 26
+tail: 50
+nodes: 26 27 28 37 29 30 31 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50 
+edges: source: 49 dest: 50
+source: 48 dest: 49
+source: 47 dest: 48
+source: 46 dest: 47
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 37 dest: 38
+source: 27 dest: 28
+source: 26 dest: 27
+source: 28 dest: 29
+source: 28 dest: 36
+source: 35 dest: 37
+source: 36 dest: 37
+source: 34 dest: 35
+source: 33 dest: 34
+source: 32 dest: 33
+source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+
+
+head: 51
+tail: 89
+nodes: 51 52 53 54 80 55 56 78 57 58 70 59 60 63 61 62 64 65 66 67 68 69 71 72 73 74 75 76 77 79 81 82 83 84 85 86 87 88 89 
+edges: source: 88 dest: 89
+source: 87 dest: 88
+source: 86 dest: 87
+source: 85 dest: 86
+source: 84 dest: 85
+source: 83 dest: 84
+source: 82 dest: 83
+source: 81 dest: 82
+source: 80 dest: 81
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 54 dest: 55
+source: 54 dest: 79
+source: 78 dest: 80
+source: 79 dest: 80
+source: 55 dest: 56
+source: 56 dest: 57
+source: 56 dest: 77
+source: 76 dest: 78
+source: 77 dest: 78
+source: 75 dest: 76
+source: 74 dest: 75
+source: 73 dest: 74
+source: 72 dest: 73
+source: 71 dest: 72
+source: 70 dest: 71
+source: 57 dest: 58
+source: 58 dest: 59
+source: 58 dest: 69
+source: 68 dest: 70
+source: 69 dest: 70
+source: 67 dest: 68
+source: 66 dest: 67
+source: 65 dest: 66
+source: 64 dest: 65
+source: 63 dest: 64
+source: 59 dest: 60
+source: 60 dest: 61
+source: 60 dest: 62
+source: 61 dest: 63
+source: 62 dest: 63
+
+
+head: 90
+tail: 110
+nodes: 90 91 92 99 93 94 95 98 96 97 100 101 104 102 103 105 106 109 107 108 110 
+edges: source: 109 dest: 110
+source: 105 dest: 106
+source: 104 dest: 105
+source: 100 dest: 101
+source: 99 dest: 100
+source: 91 dest: 92
+source: 90 dest: 91
+source: 92 dest: 93
+source: 98 dest: 92
+source: 92 dest: 99
+source: 94 dest: 95
+source: 93 dest: 94
+source: 95 dest: 96
+source: 95 dest: 97
+source: 96 dest: 98
+source: 97 dest: 98
+source: 101 dest: 102
+source: 101 dest: 103
+source: 102 dest: 104
+source: 103 dest: 104
+source: 106 dest: 107
+source: 106 dest: 108
+source: 107 dest: 109
+source: 108 dest: 109
+
+
+head: 111
+tail: 157
+nodes: 111 112 122 113 114 120 115 116 119 117 118 121 123 130 124 125 128 126 127 129 131 142 132 133 134 140 135 136 137 138 139 141 143 144 145 152 146 147 150 148 149 151 153 154 155 156 157 
+edges: source: 156 dest: 157
+source: 155 dest: 156
+source: 154 dest: 155
+source: 153 dest: 154
+source: 152 dest: 153
+source: 144 dest: 145
+source: 143 dest: 144
+source: 142 dest: 143
+source: 130 dest: 131
+source: 122 dest: 123
+source: 111 dest: 112
+source: 112 dest: 113
+source: 112 dest: 121
+source: 120 dest: 122
+source: 121 dest: 122
+source: 113 dest: 114
+source: 114 dest: 115
+source: 114 dest: 116
+source: 115 dest: 120
+source: 119 dest: 120
+source: 116 dest: 117
+source: 116 dest: 118
+source: 117 dest: 119
+source: 118 dest: 119
+source: 123 dest: 124
+source: 123 dest: 129
+source: 128 dest: 130
+source: 129 dest: 130
+source: 124 dest: 125
+source: 125 dest: 126
+source: 125 dest: 127
+source: 126 dest: 128
+source: 127 dest: 128
+source: 131 dest: 132
+source: 141 dest: 131
+source: 131 dest: 142
+source: 140 dest: 141
+source: 133 dest: 134
+source: 132 dest: 133
+source: 134 dest: 135
+source: 134 dest: 139
+source: 138 dest: 140
+source: 139 dest: 140
+source: 137 dest: 138
+source: 136 dest: 137
+source: 135 dest: 136
+source: 145 dest: 146
+source: 145 dest: 151
+source: 150 dest: 152
+source: 151 dest: 152
+source: 146 dest: 147
+source: 147 dest: 148
+source: 147 dest: 149
+source: 148 dest: 150
+source: 149 dest: 150
+
+
+head: 158
+tail: 179
+nodes: 158 159 160 161 162 163 164 169 165 166 167 168 170 171 172 173 174 175 176 177 178 179 
+edges: source: 178 dest: 179
+source: 177 dest: 178
+source: 176 dest: 177
+source: 175 dest: 176
+source: 174 dest: 175
+source: 173 dest: 174
+source: 172 dest: 173
+source: 171 dest: 172
+source: 170 dest: 171
+source: 169 dest: 170
+source: 163 dest: 164
+source: 162 dest: 163
+source: 161 dest: 162
+source: 160 dest: 161
+source: 159 dest: 160
+source: 158 dest: 159
+source: 164 dest: 165
+source: 164 dest: 168
+source: 167 dest: 169
+source: 168 dest: 169
+source: 166 dest: 167
+source: 165 dest: 166
+
+
+head: 180
+tail: 240
+nodes: 180 181 182 185 183 184 186 189 187 188 190 196 191 192 195 193 194 197 200 198 199 201 237 202 203 206 204 205 207 208 209 212 210 211 213 214 219 215 216 217 218 220 221 226 222 223 224 225 227 236 228 229 235 230 231 232 233 234 238 239 240 
+edges: source: 239 dest: 240
+source: 238 dest: 239
+source: 237 dest: 238
+source: 200 dest: 201
+source: 196 dest: 197
+source: 189 dest: 190
+source: 185 dest: 186
+source: 181 dest: 182
+source: 180 dest: 181
+source: 182 dest: 183
+source: 182 dest: 184
+source: 183 dest: 185
+source: 184 dest: 185
+source: 186 dest: 187
+source: 186 dest: 188
+source: 187 dest: 189
+source: 188 dest: 189
+source: 190 dest: 191
+source: 190 dest: 192
+source: 191 dest: 196
+source: 195 dest: 196
+source: 192 dest: 193
+source: 192 dest: 194
+source: 193 dest: 195
+source: 194 dest: 195
+source: 197 dest: 198
+source: 197 dest: 199
+source: 198 dest: 200
+source: 199 dest: 200
+source: 201 dest: 202
+source: 201 dest: 220
+source: 219 dest: 237
+source: 236 dest: 237
+source: 213 dest: 214
+source: 212 dest: 213
+source: 208 dest: 209
+source: 207 dest: 208
+source: 206 dest: 207
+source: 202 dest: 203
+source: 203 dest: 204
+source: 203 dest: 205
+source: 204 dest: 206
+source: 205 dest: 206
+source: 209 dest: 210
+source: 209 dest: 211
+source: 210 dest: 212
+source: 211 dest: 212
+source: 214 dest: 215
+source: 214 dest: 218
+source: 217 dest: 219
+source: 218 dest: 219
+source: 216 dest: 217
+source: 215 dest: 216
+source: 226 dest: 227
+source: 220 dest: 221
+source: 221 dest: 222
+source: 221 dest: 225
+source: 224 dest: 226
+source: 225 dest: 226
+source: 223 dest: 224
+source: 222 dest: 223
+source: 227 dest: 228
+source: 227 dest: 229
+source: 228 dest: 236
+source: 235 dest: 236
+source: 229 dest: 230
+source: 229 dest: 234
+source: 233 dest: 235
+source: 234 dest: 235
+source: 232 dest: 233
+source: 231 dest: 232
+source: 230 dest: 231
+
+
+head: 241
+tail: 243
+nodes: 241 242 243 
+edges: source: 242 dest: 243
+source: 241 dest: 242
+
+
+head: 244
+tail: 298
+nodes: 244 245 246 247 288 248 249 250 251 252 267 253 254 255 266 256 257 258 264 259 262 260 261 263 265 268 271 269 270 272 273 278 274 275 276 277 279 280 281 282 287 283 284 285 286 289 294 290 291 292 293 295 296 297 298 
+edges: source: 297 dest: 298
+source: 296 dest: 297
+source: 295 dest: 296
+source: 294 dest: 295
+source: 288 dest: 289
+source: 246 dest: 247
+source: 245 dest: 246
+source: 244 dest: 245
+source: 247 dest: 248
+source: 247 dest: 280
+source: 279 dest: 288
+source: 287 dest: 288
+source: 278 dest: 279
+source: 272 dest: 273
+source: 271 dest: 272
+source: 267 dest: 268
+source: 251 dest: 252
+source: 250 dest: 251
+source: 249 dest: 250
+source: 248 dest: 249
+source: 252 dest: 253
+source: 266 dest: 252
+source: 252 dest: 267
+source: 254 dest: 255
+source: 253 dest: 254
+source: 255 dest: 256
+source: 255 dest: 265
+source: 264 dest: 266
+source: 265 dest: 266
+source: 257 dest: 258
+source: 256 dest: 257
+source: 258 dest: 259
+source: 258 dest: 263
+source: 262 dest: 264
+source: 263 dest: 264
+source: 259 dest: 260
+source: 259 dest: 261
+source: 260 dest: 262
+source: 261 dest: 262
+source: 268 dest: 269
+source: 268 dest: 270
+source: 269 dest: 271
+source: 270 dest: 271
+source: 273 dest: 274
+source: 273 dest: 277
+source: 276 dest: 278
+source: 277 dest: 278
+source: 275 dest: 276
+source: 274 dest: 275
+source: 281 dest: 282
+source: 280 dest: 281
+source: 282 dest: 283
+source: 282 dest: 284
+source: 283 dest: 287
+source: 286 dest: 287
+source: 285 dest: 286
+source: 284 dest: 285
+source: 289 dest: 290
+source: 289 dest: 293
+source: 292 dest: 294
+source: 293 dest: 294
+source: 291 dest: 292
+source: 290 dest: 291
+
+
+
+num funcs: 9
+cyclomatic complexity: 54
+=======================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/main.c 
+=======================================================================
+==========================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/tmp/aes.c 
+==========================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 4
+nodes: 0 1 4 2 3 
+edges: source: 0 dest: 1
+source: 1 dest: 2
+source: 3 dest: 1
+source: 1 dest: 4
+source: 2 dest: 3
+
+
+head: 5
+tail: 11
+nodes: 5 6 7 8 9 10 11 
+edges: source: 10 dest: 11
+source: 9 dest: 10
+source: 8 dest: 9
+source: 7 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 12
+tail: 17
+nodes: 12 13 16 14 15 17 
+edges: source: 16 dest: 17
+source: 12 dest: 13
+source: 13 dest: 14
+source: 15 dest: 13
+source: 13 dest: 16
+source: 14 dest: 15
+
+
+head: 18
+tail: 47
+nodes: 18 19 43 20 21 22 23 24 25 41 26 27 28 29 33 30 31 32 34 35 36 40 37 38 39 42 44 45 46 47 
+edges: source: 46 dest: 47
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+source: 18 dest: 19
+source: 19 dest: 20
+source: 42 dest: 19
+source: 19 dest: 43
+source: 41 dest: 42
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 25 dest: 26
+source: 25 dest: 36
+source: 35 dest: 41
+source: 40 dest: 41
+source: 34 dest: 35
+source: 33 dest: 34
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 29 dest: 30
+source: 29 dest: 32
+source: 31 dest: 33
+source: 32 dest: 33
+source: 30 dest: 31
+source: 36 dest: 37
+source: 36 dest: 39
+source: 38 dest: 40
+source: 39 dest: 40
+source: 37 dest: 38
+
+
+head: 48
+tail: 56
+nodes: 48 49 55 50 51 54 52 53 56 
+edges: source: 55 dest: 56
+source: 48 dest: 49
+source: 49 dest: 50
+source: 54 dest: 49
+source: 49 dest: 55
+source: 50 dest: 51
+source: 51 dest: 52
+source: 53 dest: 51
+source: 51 dest: 54
+source: 52 dest: 53
+
+
+head: 57
+tail: 65
+nodes: 57 58 64 59 60 63 61 62 65 
+edges: source: 64 dest: 65
+source: 57 dest: 58
+source: 58 dest: 59
+source: 63 dest: 58
+source: 58 dest: 64
+source: 59 dest: 60
+source: 60 dest: 61
+source: 62 dest: 60
+source: 60 dest: 63
+source: 61 dest: 62
+
+
+head: 66
+tail: 83
+nodes: 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 
+edges: source: 82 dest: 83
+source: 81 dest: 82
+source: 80 dest: 81
+source: 79 dest: 80
+source: 78 dest: 79
+source: 77 dest: 78
+source: 76 dest: 77
+source: 75 dest: 76
+source: 74 dest: 75
+source: 73 dest: 74
+source: 72 dest: 73
+source: 71 dest: 72
+source: 70 dest: 71
+source: 69 dest: 70
+source: 68 dest: 69
+source: 67 dest: 68
+source: 66 dest: 67
+
+
+head: 84
+tail: 85
+nodes: 84 85 
+edges: source: 84 dest: 85
+
+
+head: 86
+tail: 98
+nodes: 86 87 88 96 89 90 91 95 92 93 94 97 98 
+edges: source: 97 dest: 98
+source: 96 dest: 97
+source: 87 dest: 88
+source: 86 dest: 87
+source: 88 dest: 89
+source: 95 dest: 88
+source: 88 dest: 96
+source: 90 dest: 91
+source: 89 dest: 90
+source: 91 dest: 92
+source: 91 dest: 94
+source: 93 dest: 95
+source: 94 dest: 95
+source: 92 dest: 93
+
+
+head: 99
+tail: 112
+nodes: 99 100 110 101 102 103 104 105 106 107 108 109 111 112 
+edges: source: 111 dest: 112
+source: 110 dest: 111
+source: 99 dest: 100
+source: 100 dest: 101
+source: 109 dest: 100
+source: 100 dest: 110
+source: 108 dest: 109
+source: 107 dest: 108
+source: 106 dest: 107
+source: 105 dest: 106
+source: 104 dest: 105
+source: 103 dest: 104
+source: 102 dest: 103
+source: 101 dest: 102
+
+
+head: 113
+tail: 146
+nodes: 113 114 120 115 116 119 117 118 121 131 122 123 124 128 125 126 127 129 130 132 133 134 135 141 136 137 140 138 139 142 143 144 145 146 
+edges: source: 145 dest: 146
+source: 144 dest: 145
+source: 143 dest: 144
+source: 142 dest: 143
+source: 141 dest: 142
+source: 134 dest: 135
+source: 133 dest: 134
+source: 132 dest: 133
+source: 131 dest: 132
+source: 120 dest: 121
+source: 113 dest: 114
+source: 114 dest: 115
+source: 119 dest: 114
+source: 114 dest: 120
+source: 115 dest: 116
+source: 116 dest: 117
+source: 118 dest: 116
+source: 116 dest: 119
+source: 117 dest: 118
+source: 121 dest: 122
+source: 130 dest: 121
+source: 121 dest: 131
+source: 129 dest: 130
+source: 128 dest: 129
+source: 123 dest: 124
+source: 122 dest: 123
+source: 124 dest: 125
+source: 124 dest: 127
+source: 126 dest: 128
+source: 127 dest: 128
+source: 125 dest: 126
+source: 135 dest: 136
+source: 140 dest: 135
+source: 135 dest: 141
+source: 136 dest: 137
+source: 137 dest: 138
+source: 139 dest: 137
+source: 137 dest: 140
+source: 138 dest: 139
+
+
+head: 147
+tail: 164
+nodes: 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 
+edges: source: 163 dest: 164
+source: 162 dest: 163
+source: 161 dest: 162
+source: 160 dest: 161
+source: 159 dest: 160
+source: 158 dest: 159
+source: 157 dest: 158
+source: 156 dest: 157
+source: 155 dest: 156
+source: 154 dest: 155
+source: 153 dest: 154
+source: 152 dest: 153
+source: 151 dest: 152
+source: 150 dest: 151
+source: 149 dest: 150
+source: 148 dest: 149
+source: 147 dest: 148
+
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 165
+tail: 173
+nodes: 165 166 172 167 168 171 169 170 173 
+edges: source: 172 dest: 173
+source: 165 dest: 166
+source: 166 dest: 167
+source: 171 dest: 166
+source: 166 dest: 172
+source: 167 dest: 168
+source: 168 dest: 169
+source: 170 dest: 168
+source: 168 dest: 171
+source: 169 dest: 170
+
+
+head: 174
+tail: 187
+nodes: 174 175 185 176 177 178 179 180 181 182 183 184 186 187 
+edges: source: 186 dest: 187
+source: 185 dest: 186
+source: 174 dest: 175
+source: 175 dest: 176
+source: 184 dest: 175
+source: 175 dest: 185
+source: 183 dest: 184
+source: 182 dest: 183
+source: 181 dest: 182
+source: 180 dest: 181
+source: 179 dest: 180
+source: 178 dest: 179
+source: 177 dest: 178
+source: 176 dest: 177
+
+
+head: 188
+tail: 221
+nodes: 188 189 195 190 191 194 192 193 196 206 197 198 202 199 200 201 203 204 205 207 208 209 210 216 211 212 215 213 214 217 218 219 220 221 
+edges: source: 220 dest: 221
+source: 219 dest: 220
+source: 218 dest: 219
+source: 217 dest: 218
+source: 216 dest: 217
+source: 209 dest: 210
+source: 208 dest: 209
+source: 207 dest: 208
+source: 206 dest: 207
+source: 195 dest: 196
+source: 188 dest: 189
+source: 189 dest: 190
+source: 194 dest: 189
+source: 189 dest: 195
+source: 190 dest: 191
+source: 191 dest: 192
+source: 193 dest: 191
+source: 191 dest: 194
+source: 192 dest: 193
+source: 196 dest: 197
+source: 205 dest: 196
+source: 196 dest: 206
+source: 204 dest: 205
+source: 203 dest: 204
+source: 202 dest: 203
+source: 197 dest: 198
+source: 198 dest: 199
+source: 198 dest: 201
+source: 200 dest: 202
+source: 201 dest: 202
+source: 199 dest: 200
+source: 210 dest: 211
+source: 215 dest: 210
+source: 210 dest: 216
+source: 211 dest: 212
+source: 212 dest: 213
+source: 214 dest: 212
+source: 212 dest: 215
+source: 213 dest: 214
+
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 222
+tail: 233
+nodes: 222 223 232 224 225 226 227 228 229 230 231 233 
+edges: source: 232 dest: 233
+source: 222 dest: 223
+source: 223 dest: 224
+source: 231 dest: 223
+source: 223 dest: 232
+source: 230 dest: 231
+source: 229 dest: 230
+source: 228 dest: 229
+source: 227 dest: 228
+source: 226 dest: 227
+source: 225 dest: 226
+source: 224 dest: 225
+
+
+head: 234
+tail: 243
+nodes: 234 235 243 236 237 238 239 240 241 242 
+edges: source: 234 dest: 235
+source: 235 dest: 236
+source: 242 dest: 235
+source: 235 dest: 243
+source: 241 dest: 242
+source: 240 dest: 241
+source: 239 dest: 240
+source: 238 dest: 239
+source: 237 dest: 238
+source: 236 dest: 237
+
+
+head: 244
+tail: 245
+nodes: 244 245 
+edges: source: 244 dest: 245
+
+
+head: 246
+tail: 247
+nodes: 246 247 
+edges: source: 246 dest: 247
+
+
+head: 248
+tail: 249
+nodes: 248 249 
+edges: source: 248 dest: 249
+
+
+head: 250
+tail: 251
+nodes: 250 251 
+edges: source: 250 dest: 251
+
+
+
+num funcs: 21
+cyclomatic complexity: 51
+==========================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/tmp/hex.c 
+==========================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 17
+nodes: 0 1 2 15 3 4 5 6 7 8 9 12 10 11 13 14 16 17 
+edges: source: 16 dest: 17
+source: 15 dest: 16
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 2 dest: 8
+source: 7 dest: 15
+source: 14 dest: 15
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 3 dest: 4
+source: 13 dest: 14
+source: 12 dest: 13
+source: 8 dest: 9
+source: 9 dest: 10
+source: 11 dest: 9
+source: 9 dest: 12
+source: 10 dest: 11
+
+
+head: 18
+tail: 23
+nodes: 18 19 20 23 21 22 
+edges: source: 19 dest: 20
+source: 18 dest: 19
+source: 20 dest: 21
+source: 22 dest: 20
+source: 20 dest: 23
+source: 21 dest: 22
+
+
+
+num funcs: 2
+cyclomatic complexity: 5
+================================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/tmp/logappend.c 
+================================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 25
+nodes: 0 1 2 20 3 4 6 5 7 8 19 9 10 17 11 12 15 13 14 16 18 21 22 23 24 25 
+edges: source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 2 dest: 8
+source: 7 dest: 20
+source: 19 dest: 20
+source: 6 dest: 7
+source: 3 dest: 4
+source: 4 dest: 5
+source: 5 dest: 4
+source: 4 dest: 6
+source: 8 dest: 9
+source: 8 dest: 18
+source: 17 dest: 19
+source: 18 dest: 19
+source: 9 dest: 10
+source: 10 dest: 11
+source: 16 dest: 10
+source: 10 dest: 17
+source: 15 dest: 16
+source: 11 dest: 12
+source: 12 dest: 13
+source: 12 dest: 14
+source: 13 dest: 15
+source: 14 dest: 15
+
+
+head: 26
+tail: 50
+nodes: 26 27 28 37 29 30 31 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50 
+edges: source: 49 dest: 50
+source: 48 dest: 49
+source: 47 dest: 48
+source: 46 dest: 47
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+source: 42 dest: 43
+source: 41 dest: 42
+source: 40 dest: 41
+source: 39 dest: 40
+source: 38 dest: 39
+source: 37 dest: 38
+source: 27 dest: 28
+source: 26 dest: 27
+source: 28 dest: 29
+source: 28 dest: 36
+source: 35 dest: 37
+source: 36 dest: 37
+source: 34 dest: 35
+source: 33 dest: 34
+source: 32 dest: 33
+source: 31 dest: 32
+source: 30 dest: 31
+source: 29 dest: 30
+
+
+head: 51
+tail: 89
+nodes: 51 52 53 54 80 55 56 78 57 58 70 59 60 63 61 62 64 65 66 67 68 69 71 72 73 74 75 76 77 79 81 82 83 84 85 86 87 88 89 
+edges: source: 88 dest: 89
+source: 87 dest: 88
+source: 86 dest: 87
+source: 85 dest: 86
+source: 84 dest: 85
+source: 83 dest: 84
+source: 82 dest: 83
+source: 81 dest: 82
+source: 80 dest: 81
+source: 53 dest: 54
+source: 52 dest: 53
+source: 51 dest: 52
+source: 54 dest: 55
+source: 54 dest: 79
+source: 78 dest: 80
+source: 79 dest: 80
+source: 55 dest: 56
+source: 56 dest: 57
+source: 56 dest: 77
+source: 76 dest: 78
+source: 77 dest: 78
+source: 75 dest: 76
+source: 74 dest: 75
+source: 73 dest: 74
+source: 72 dest: 73
+source: 71 dest: 72
+source: 70 dest: 71
+source: 57 dest: 58
+source: 58 dest: 59
+source: 58 dest: 69
+source: 68 dest: 70
+source: 69 dest: 70
+source: 67 dest: 68
+source: 66 dest: 67
+source: 65 dest: 66
+source: 64 dest: 65
+source: 63 dest: 64
+source: 59 dest: 60
+source: 60 dest: 61
+source: 60 dest: 62
+source: 61 dest: 63
+source: 62 dest: 63
+
+
+head: 90
+tail: 111
+nodes: 90 91 92 99 93 94 95 98 96 97 100 101 102 105 103 104 106 107 110 108 109 111 
+edges: source: 110 dest: 111
+source: 106 dest: 107
+source: 105 dest: 106
+source: 101 dest: 102
+source: 100 dest: 101
+source: 99 dest: 100
+source: 91 dest: 92
+source: 90 dest: 91
+source: 92 dest: 93
+source: 98 dest: 92
+source: 92 dest: 99
+source: 94 dest: 95
+source: 93 dest: 94
+source: 95 dest: 96
+source: 95 dest: 97
+source: 96 dest: 98
+source: 97 dest: 98
+source: 102 dest: 103
+source: 102 dest: 104
+source: 103 dest: 105
+source: 104 dest: 105
+source: 107 dest: 108
+source: 107 dest: 109
+source: 108 dest: 110
+source: 109 dest: 110
+
+
+head: 112
+tail: 158
+nodes: 112 113 123 114 115 121 116 117 120 118 119 122 124 131 125 126 129 127 128 130 132 143 133 134 135 141 136 137 138 139 140 142 144 145 146 153 147 148 151 149 150 152 154 155 156 157 158 
+edges: source: 157 dest: 158
+source: 156 dest: 157
+source: 155 dest: 156
+source: 154 dest: 155
+source: 153 dest: 154
+source: 145 dest: 146
+source: 144 dest: 145
+source: 143 dest: 144
+source: 131 dest: 132
+source: 123 dest: 124
+source: 112 dest: 113
+source: 113 dest: 114
+source: 113 dest: 122
+source: 121 dest: 123
+source: 122 dest: 123
+source: 114 dest: 115
+source: 115 dest: 116
+source: 115 dest: 117
+source: 116 dest: 121
+source: 120 dest: 121
+source: 117 dest: 118
+source: 117 dest: 119
+source: 118 dest: 120
+source: 119 dest: 120
+source: 124 dest: 125
+source: 124 dest: 130
+source: 129 dest: 131
+source: 130 dest: 131
+source: 125 dest: 126
+source: 126 dest: 127
+source: 126 dest: 128
+source: 127 dest: 129
+source: 128 dest: 129
+source: 132 dest: 133
+source: 142 dest: 132
+source: 132 dest: 143
+source: 141 dest: 142
+source: 134 dest: 135
+source: 133 dest: 134
+source: 135 dest: 136
+source: 135 dest: 140
+source: 139 dest: 141
+source: 140 dest: 141
+source: 138 dest: 139
+source: 137 dest: 138
+source: 136 dest: 137
+source: 146 dest: 147
+source: 146 dest: 152
+source: 151 dest: 153
+source: 152 dest: 153
+source: 147 dest: 148
+source: 148 dest: 149
+source: 148 dest: 150
+source: 149 dest: 151
+source: 150 dest: 151
+
+
+head: 159
+tail: 180
+nodes: 159 160 161 162 163 164 165 170 166 167 168 169 171 172 173 174 175 176 177 178 179 180 
+edges: source: 179 dest: 180
+source: 178 dest: 179
+source: 177 dest: 178
+source: 176 dest: 177
+source: 175 dest: 176
+source: 174 dest: 175
+source: 173 dest: 174
+source: 172 dest: 173
+source: 171 dest: 172
+source: 170 dest: 171
+source: 164 dest: 165
+source: 163 dest: 164
+source: 162 dest: 163
+source: 161 dest: 162
+source: 160 dest: 161
+source: 159 dest: 160
+source: 165 dest: 166
+source: 165 dest: 169
+source: 168 dest: 170
+source: 169 dest: 170
+source: 167 dest: 168
+source: 166 dest: 167
+
+
+head: 181
+tail: 241
+nodes: 181 182 183 186 184 185 187 190 188 189 191 197 192 193 196 194 195 198 201 199 200 202 238 203 204 207 205 206 208 209 210 213 211 212 214 215 220 216 217 218 219 221 222 227 223 224 225 226 228 237 229 230 236 231 232 233 234 235 239 240 241 
+edges: source: 240 dest: 241
+source: 239 dest: 240
+source: 238 dest: 239
+source: 201 dest: 202
+source: 197 dest: 198
+source: 190 dest: 191
+source: 186 dest: 187
+source: 182 dest: 183
+source: 181 dest: 182
+source: 183 dest: 184
+source: 183 dest: 185
+source: 184 dest: 186
+source: 185 dest: 186
+source: 187 dest: 188
+source: 187 dest: 189
+source: 188 dest: 190
+source: 189 dest: 190
+source: 191 dest: 192
+source: 191 dest: 193
+source: 192 dest: 197
+source: 196 dest: 197
+source: 193 dest: 194
+source: 193 dest: 195
+source: 194 dest: 196
+source: 195 dest: 196
+source: 198 dest: 199
+source: 198 dest: 200
+source: 199 dest: 201
+source: 200 dest: 201
+source: 202 dest: 203
+source: 202 dest: 221
+source: 220 dest: 238
+source: 237 dest: 238
+source: 214 dest: 215
+source: 213 dest: 214
+source: 209 dest: 210
+source: 208 dest: 209
+source: 207 dest: 208
+source: 203 dest: 204
+source: 204 dest: 205
+source: 204 dest: 206
+source: 205 dest: 207
+source: 206 dest: 207
+source: 210 dest: 211
+source: 210 dest: 212
+source: 211 dest: 213
+source: 212 dest: 213
+source: 215 dest: 216
+source: 215 dest: 219
+source: 218 dest: 220
+source: 219 dest: 220
+source: 217 dest: 218
+source: 216 dest: 217
+source: 227 dest: 228
+source: 221 dest: 222
+source: 222 dest: 223
+source: 222 dest: 226
+source: 225 dest: 227
+source: 226 dest: 227
+source: 224 dest: 225
+source: 223 dest: 224
+source: 228 dest: 229
+source: 228 dest: 230
+source: 229 dest: 237
+source: 236 dest: 237
+source: 230 dest: 231
+source: 230 dest: 235
+source: 234 dest: 236
+source: 235 dest: 236
+source: 233 dest: 234
+source: 232 dest: 233
+source: 231 dest: 232
+
+
+head: 242
+tail: 244
+nodes: 242 243 244 
+edges: source: 243 dest: 244
+source: 242 dest: 243
+
+
+head: 245
+tail: 299
+nodes: 245 246 247 248 289 249 250 251 252 253 268 254 255 256 267 257 258 259 265 260 263 261 262 264 266 269 272 270 271 273 274 279 275 276 277 278 280 281 282 283 288 284 285 286 287 290 295 291 292 293 294 296 297 298 299 
+edges: source: 298 dest: 299
+source: 297 dest: 298
+source: 296 dest: 297
+source: 295 dest: 296
+source: 289 dest: 290
+source: 247 dest: 248
+source: 246 dest: 247
+source: 245 dest: 246
+source: 248 dest: 249
+source: 248 dest: 281
+source: 280 dest: 289
+source: 288 dest: 289
+source: 279 dest: 280
+source: 273 dest: 274
+source: 272 dest: 273
+source: 268 dest: 269
+source: 252 dest: 253
+source: 251 dest: 252
+source: 250 dest: 251
+source: 249 dest: 250
+source: 253 dest: 254
+source: 267 dest: 253
+source: 253 dest: 268
+source: 255 dest: 256
+source: 254 dest: 255
+source: 256 dest: 257
+source: 256 dest: 266
+source: 265 dest: 267
+source: 266 dest: 267
+source: 258 dest: 259
+source: 257 dest: 258
+source: 259 dest: 260
+source: 259 dest: 264
+source: 263 dest: 265
+source: 264 dest: 265
+source: 260 dest: 261
+source: 260 dest: 262
+source: 261 dest: 263
+source: 262 dest: 263
+source: 269 dest: 270
+source: 269 dest: 271
+source: 270 dest: 272
+source: 271 dest: 272
+source: 274 dest: 275
+source: 274 dest: 278
+source: 277 dest: 279
+source: 278 dest: 279
+source: 276 dest: 277
+source: 275 dest: 276
+source: 282 dest: 283
+source: 281 dest: 282
+source: 283 dest: 284
+source: 283 dest: 285
+source: 284 dest: 288
+source: 287 dest: 288
+source: 286 dest: 287
+source: 285 dest: 286
+source: 290 dest: 291
+source: 290 dest: 294
+source: 293 dest: 295
+source: 294 dest: 295
+source: 292 dest: 293
+source: 291 dest: 292
+
+
+
+num funcs: 9
+cyclomatic complexity: 54
+===========================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/tmp/util.c 
+===========================================================================
+===========================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/tmp2/aes.c 
+===========================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 4
+nodes: 0 1 4 2 3 
+edges: source: 0 dest: 1
+source: 1 dest: 2
+source: 3 dest: 1
+source: 1 dest: 4
+source: 2 dest: 3
+
+
+head: 5
+tail: 11
+nodes: 5 6 7 8 9 10 11 
+edges: source: 10 dest: 11
+source: 9 dest: 10
+source: 8 dest: 9
+source: 7 dest: 8
+source: 6 dest: 7
+source: 5 dest: 6
+
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 12
+tail: 17
+nodes: 12 13 16 14 15 17 
+edges: source: 16 dest: 17
+source: 12 dest: 13
+source: 13 dest: 14
+source: 15 dest: 13
+source: 13 dest: 16
+source: 14 dest: 15
+
+
+head: 18
+tail: 47
+nodes: 18 19 43 20 21 22 23 24 25 41 26 27 28 29 33 30 31 32 34 35 36 40 37 38 39 42 44 45 46 47 
+edges: source: 46 dest: 47
+source: 45 dest: 46
+source: 44 dest: 45
+source: 43 dest: 44
+source: 18 dest: 19
+source: 19 dest: 20
+source: 42 dest: 19
+source: 19 dest: 43
+source: 41 dest: 42
+source: 24 dest: 25
+source: 23 dest: 24
+source: 22 dest: 23
+source: 21 dest: 22
+source: 20 dest: 21
+source: 25 dest: 26
+source: 25 dest: 36
+source: 35 dest: 41
+source: 40 dest: 41
+source: 34 dest: 35
+source: 33 dest: 34
+source: 28 dest: 29
+source: 27 dest: 28
+source: 26 dest: 27
+source: 29 dest: 30
+source: 29 dest: 32
+source: 31 dest: 33
+source: 32 dest: 33
+source: 30 dest: 31
+source: 36 dest: 37
+source: 36 dest: 39
+source: 38 dest: 40
+source: 39 dest: 40
+source: 37 dest: 38
+
+
+head: 48
+tail: 56
+nodes: 48 49 55 50 51 54 52 53 56 
+edges: source: 55 dest: 56
+source: 48 dest: 49
+source: 49 dest: 50
+source: 54 dest: 49
+source: 49 dest: 55
+source: 50 dest: 51
+source: 51 dest: 52
+source: 53 dest: 51
+source: 51 dest: 54
+source: 52 dest: 53
+
+
+head: 57
+tail: 65
+nodes: 57 58 64 59 60 63 61 62 65 
+edges: source: 64 dest: 65
+source: 57 dest: 58
+source: 58 dest: 59
+source: 63 dest: 58
+source: 58 dest: 64
+source: 59 dest: 60
+source: 60 dest: 61
+source: 62 dest: 60
+source: 60 dest: 63
+source: 61 dest: 62
+
+
+head: 66
+tail: 83
+nodes: 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 
+edges: source: 82 dest: 83
+source: 81 dest: 82
+source: 80 dest: 81
+source: 79 dest: 80
+source: 78 dest: 79
+source: 77 dest: 78
+source: 76 dest: 77
+source: 75 dest: 76
+source: 74 dest: 75
+source: 73 dest: 74
+source: 72 dest: 73
+source: 71 dest: 72
+source: 70 dest: 71
+source: 69 dest: 70
+source: 68 dest: 69
+source: 67 dest: 68
+source: 66 dest: 67
+
+
+head: 84
+tail: 85
+nodes: 84 85 
+edges: source: 84 dest: 85
+
+
+head: 86
+tail: 98
+nodes: 86 87 88 96 89 90 91 95 92 93 94 97 98 
+edges: source: 97 dest: 98
+source: 96 dest: 97
+source: 87 dest: 88
+source: 86 dest: 87
+source: 88 dest: 89
+source: 95 dest: 88
+source: 88 dest: 96
+source: 90 dest: 91
+source: 89 dest: 90
+source: 91 dest: 92
+source: 91 dest: 94
+source: 93 dest: 95
+source: 94 dest: 95
+source: 92 dest: 93
+
+
+head: 99
+tail: 112
+nodes: 99 100 110 101 102 103 104 105 106 107 108 109 111 112 
+edges: source: 111 dest: 112
+source: 110 dest: 111
+source: 99 dest: 100
+source: 100 dest: 101
+source: 109 dest: 100
+source: 100 dest: 110
+source: 108 dest: 109
+source: 107 dest: 108
+source: 106 dest: 107
+source: 105 dest: 106
+source: 104 dest: 105
+source: 103 dest: 104
+source: 102 dest: 103
+source: 101 dest: 102
+
+
+head: 113
+tail: 146
+nodes: 113 114 120 115 116 119 117 118 121 131 122 123 124 128 125 126 127 129 130 132 133 134 135 141 136 137 140 138 139 142 143 144 145 146 
+edges: source: 145 dest: 146
+source: 144 dest: 145
+source: 143 dest: 144
+source: 142 dest: 143
+source: 141 dest: 142
+source: 134 dest: 135
+source: 133 dest: 134
+source: 132 dest: 133
+source: 131 dest: 132
+source: 120 dest: 121
+source: 113 dest: 114
+source: 114 dest: 115
+source: 119 dest: 114
+source: 114 dest: 120
+source: 115 dest: 116
+source: 116 dest: 117
+source: 118 dest: 116
+source: 116 dest: 119
+source: 117 dest: 118
+source: 121 dest: 122
+source: 130 dest: 121
+source: 121 dest: 131
+source: 129 dest: 130
+source: 128 dest: 129
+source: 123 dest: 124
+source: 122 dest: 123
+source: 124 dest: 125
+source: 124 dest: 127
+source: 126 dest: 128
+source: 127 dest: 128
+source: 125 dest: 126
+source: 135 dest: 136
+source: 140 dest: 135
+source: 135 dest: 141
+source: 136 dest: 137
+source: 137 dest: 138
+source: 139 dest: 137
+source: 137 dest: 140
+source: 138 dest: 139
+
+
+head: 147
+tail: 164
+nodes: 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 
+edges: source: 163 dest: 164
+source: 162 dest: 163
+source: 161 dest: 162
+source: 160 dest: 161
+source: 159 dest: 160
+source: 158 dest: 159
+source: 157 dest: 158
+source: 156 dest: 157
+source: 155 dest: 156
+source: 154 dest: 155
+source: 153 dest: 154
+source: 152 dest: 153
+source: 151 dest: 152
+source: 150 dest: 151
+source: 149 dest: 150
+source: 148 dest: 149
+source: 147 dest: 148
+
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 165
+tail: 173
+nodes: 165 166 172 167 168 171 169 170 173 
+edges: source: 172 dest: 173
+source: 165 dest: 166
+source: 166 dest: 167
+source: 171 dest: 166
+source: 166 dest: 172
+source: 167 dest: 168
+source: 168 dest: 169
+source: 170 dest: 168
+source: 168 dest: 171
+source: 169 dest: 170
+
+
+head: 174
+tail: 187
+nodes: 174 175 185 176 177 178 179 180 181 182 183 184 186 187 
+edges: source: 186 dest: 187
+source: 185 dest: 186
+source: 174 dest: 175
+source: 175 dest: 176
+source: 184 dest: 175
+source: 175 dest: 185
+source: 183 dest: 184
+source: 182 dest: 183
+source: 181 dest: 182
+source: 180 dest: 181
+source: 179 dest: 180
+source: 178 dest: 179
+source: 177 dest: 178
+source: 176 dest: 177
+
+
+head: 188
+tail: 221
+nodes: 188 189 195 190 191 194 192 193 196 206 197 198 202 199 200 201 203 204 205 207 208 209 210 216 211 212 215 213 214 217 218 219 220 221 
+edges: source: 220 dest: 221
+source: 219 dest: 220
+source: 218 dest: 219
+source: 217 dest: 218
+source: 216 dest: 217
+source: 209 dest: 210
+source: 208 dest: 209
+source: 207 dest: 208
+source: 206 dest: 207
+source: 195 dest: 196
+source: 188 dest: 189
+source: 189 dest: 190
+source: 194 dest: 189
+source: 189 dest: 195
+source: 190 dest: 191
+source: 191 dest: 192
+source: 193 dest: 191
+source: 191 dest: 194
+source: 192 dest: 193
+source: 196 dest: 197
+source: 205 dest: 196
+source: 196 dest: 206
+source: 204 dest: 205
+source: 203 dest: 204
+source: 202 dest: 203
+source: 197 dest: 198
+source: 198 dest: 199
+source: 198 dest: 201
+source: 200 dest: 202
+source: 201 dest: 202
+source: 199 dest: 200
+source: 210 dest: 211
+source: 215 dest: 210
+source: 210 dest: 216
+source: 211 dest: 212
+source: 212 dest: 213
+source: 214 dest: 212
+source: 212 dest: 215
+source: 213 dest: 214
+
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 222
+tail: 233
+nodes: 222 223 232 224 225 226 227 228 229 230 231 233 
+edges: source: 232 dest: 233
+source: 222 dest: 223
+source: 223 dest: 224
+source: 231 dest: 223
+source: 223 dest: 232
+source: 230 dest: 231
+source: 229 dest: 230
+source: 228 dest: 229
+source: 227 dest: 228
+source: 226 dest: 227
+source: 225 dest: 226
+source: 224 dest: 225
+
+
+head: 234
+tail: 243
+nodes: 234 235 243 236 237 238 239 240 241 242 
+edges: source: 234 dest: 235
+source: 235 dest: 236
+source: 242 dest: 235
+source: 235 dest: 243
+source: 241 dest: 242
+source: 240 dest: 241
+source: 239 dest: 240
+source: 238 dest: 239
+source: 237 dest: 238
+source: 236 dest: 237
+
+
+head: 244
+tail: 245
+nodes: 244 245 
+edges: source: 244 dest: 245
+
+
+head: 246
+tail: 247
+nodes: 246 247 
+edges: source: 246 dest: 247
+
+
+head: 248
+tail: 249
+nodes: 248 249 
+edges: source: 248 dest: 249
+
+
+head: 250
+tail: 251
+nodes: 250 251 
+edges: source: 250 dest: 251
+
+
+
+num funcs: 21
+cyclomatic complexity: 51
+===========================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/tmp2/hex.c 
+===========================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 17
+nodes: 0 1 2 15 3 4 5 6 7 8 9 12 10 11 13 14 16 17 
+edges: source: 16 dest: 17
+source: 15 dest: 16
+source: 1 dest: 2
+source: 0 dest: 1
+source: 2 dest: 3
+source: 2 dest: 8
+source: 7 dest: 15
+source: 14 dest: 15
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 3 dest: 4
+source: 13 dest: 14
+source: 12 dest: 13
+source: 8 dest: 9
+source: 9 dest: 10
+source: 11 dest: 9
+source: 9 dest: 12
+source: 10 dest: 11
+
+
+head: 18
+tail: 23
+nodes: 18 19 20 23 21 22 
+edges: source: 19 dest: 20
+source: 18 dest: 19
+source: 20 dest: 21
+source: 22 dest: 20
+source: 20 dest: 23
+source: 21 dest: 22
+
+
+
+num funcs: 2
+cyclomatic complexity: 5
+============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/tmp2/list.c 
+============================================================================
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: -1
+tail: -1
+nodes: 
+edges: 
+
+head: 0
+tail: 49
+nodes: 0 1 8 2 3 4 5 6 7 9 25 10 11 12 24 13 14 22 15 16 17 18 19 20 21 23 26 27 33 28 29 30 31 32 34 40 35 36 37 38 39 41 42 47 43 44 45 46 48 49 
+edges: source: 48 dest: 49
+source: 47 dest: 48
+source: 41 dest: 42
+source: 40 dest: 41
+source: 33 dest: 34
+source: 26 dest: 27
+source: 25 dest: 26
+source: 8 dest: 9
+source: 0 dest: 1
+source: 1 dest: 2
+source: 1 dest: 4
+source: 3 dest: 8
+source: 7 dest: 8
+source: 2 dest: 3
+source: 6 dest: 7
+source: 5 dest: 6
+source: 4 dest: 5
+source: 9 dest: 10
+source: 24 dest: 9
+source: 9 dest: 25
+source: 11 dest: 12
+source: 10 dest: 11
+source: 12 dest: 13
+source: 12 dest: 23
+source: 22 dest: 24
+source: 23 dest: 24
+source: 13 dest: 14
+source: 14 dest: 15
+source: 14 dest: 19
+source: 18 dest: 22
+source: 21 dest: 22
+source: 17 dest: 18
+source: 16 dest: 17
+source: 15 dest: 16
+source: 20 dest: 21
+source: 19 dest: 20
+source: 27 dest: 28
+source: 27 dest: 32
+source: 31 dest: 33
+source: 32 dest: 33
+source: 30 dest: 31
+source: 29 dest: 30
+source: 28 dest: 29
+source: 34 dest: 35
+source: 34 dest: 39
+source: 38 dest: 40
+source: 39 dest: 40
+source: 37 dest: 38
+source: 36 dest: 37
+source: 35 dest: 36
+source: 42 dest: 43
+source: 42 dest: 46
+source: 45 dest: 47
+source: 46 dest: 47
+source: 44 dest: 45
+source: 43 dest: 44
+
+
+head: 50
+tail: 86
+nodes: 50 51 54 52 53 55 70 56 57 61 58 59 60 62 69 63 64 65 66 67 68 71 78 72 73 74 75 76 77 79 83 80 81 82 84 85 86 
+edges: source: 85 dest: 86
+source: 84 dest: 85
+source: 83 dest: 84
+source: 78 dest: 79
+source: 70 dest: 71
+source: 54 dest: 55
+source: 50 dest: 51
+source: 51 dest: 52
+source: 51 dest: 53
+source: 52 dest: 54
+source: 53 dest: 54
+source: 55 dest: 56
+source: 69 dest: 55
+source: 55 dest: 70
+source: 61 dest: 62
+source: 56 dest: 57
+source: 57 dest: 58
+source: 57 dest: 60
+source: 59 dest: 61
+source: 60 dest: 61
+source: 58 dest: 59
+source: 62 dest: 63
+source: 62 dest: 68
+source: 67 dest: 69
+source: 68 dest: 69
+source: 66 dest: 67
+source: 65 dest: 66
+source: 64 dest: 65
+source: 63 dest: 64
+source: 71 dest: 72
+source: 71 dest: 77
+source: 76 dest: 78
+source: 77 dest: 78
+source: 75 dest: 76
+source: 74 dest: 75
+source: 73 dest: 74
+source: 72 dest: 73
+source: 79 dest: 80
+source: 79 dest: 82
+source: 81 dest: 83
+source: 82 dest: 83
+source: 80 dest: 81
+
+
+head: 87
+tail: 102
+nodes: 87 88 89 90 99 91 92 93 94 95 98 96 97 100 101 102 
+edges: source: 101 dest: 102
+source: 100 dest: 101
+source: 99 dest: 100
+source: 89 dest: 90
+source: 88 dest: 89
+source: 87 dest: 88
+source: 90 dest: 91
+source: 98 dest: 90
+source: 90 dest: 99
+source: 94 dest: 95
+source: 93 dest: 94
+source: 92 dest: 93
+source: 91 dest: 92
+source: 95 dest: 96
+source: 95 dest: 97
+source: 96 dest: 98
+source: 97 dest: 98
+
+
+head: 103
+tail: 152
+nodes: 103 104 111 105 106 107 108 109 110 112 128 113 114 115 127 116 117 125 118 119 120 121 122 123 124 126 129 130 136 131 132 133 134 135 137 143 138 139 140 141 142 144 145 150 146 147 148 149 151 152 
+edges: source: 151 dest: 152
+source: 150 dest: 151
+source: 144 dest: 145
+source: 143 dest: 144
+source: 136 dest: 137
+source: 129 dest: 130
+source: 128 dest: 129
+source: 111 dest: 112
+source: 103 dest: 104
+source: 104 dest: 105
+source: 104 dest: 107
+source: 106 dest: 111
+source: 110 dest: 111
+source: 105 dest: 106
+source: 109 dest: 110
+source: 108 dest: 109
+source: 107 dest: 108
+source: 112 dest: 113
+source: 127 dest: 112
+source: 112 dest: 128
+source: 114 dest: 115
+source: 113 dest: 114
+source: 115 dest: 116
+source: 115 dest: 126
+source: 125 dest: 127
+source: 126 dest: 127
+source: 116 dest: 117
+source: 117 dest: 118
+source: 117 dest: 122
+source: 121 dest: 125
+source: 124 dest: 125
+source: 120 dest: 121
+source: 119 dest: 120
+source: 118 dest: 119
+source: 123 dest: 124
+source: 122 dest: 123
+source: 130 dest: 131
+source: 130 dest: 135
+source: 134 dest: 136
+source: 135 dest: 136
+source: 133 dest: 134
+source: 132 dest: 133
+source: 131 dest: 132
+source: 137 dest: 138
+source: 137 dest: 142
+source: 141 dest: 143
+source: 142 dest: 143
+source: 140 dest: 141
+source: 139 dest: 140
+source: 138 dest: 139
+source: 145 dest: 146
+source: 145 dest: 149
+source: 148 dest: 150
+source: 149 dest: 150
+source: 147 dest: 148
+source: 146 dest: 147
+
+
+head: 153
+tail: 189
+nodes: 153 154 157 155 156 158 173 159 160 164 161 162 163 165 172 166 167 168 169 170 171 174 181 175 176 177 178 179 180 182 186 183 184 185 187 188 189 
+edges: source: 188 dest: 189
+source: 187 dest: 188
+source: 186 dest: 187
+source: 181 dest: 182
+source: 173 dest: 174
+source: 157 dest: 158
+source: 153 dest: 154
+source: 154 dest: 155
+source: 154 dest: 156
+source: 155 dest: 157
+source: 156 dest: 157
+source: 158 dest: 159
+source: 172 dest: 158
+source: 158 dest: 173
+source: 164 dest: 165
+source: 159 dest: 160
+source: 160 dest: 161
+source: 160 dest: 163
+source: 162 dest: 164
+source: 163 dest: 164
+source: 161 dest: 162
+source: 165 dest: 166
+source: 165 dest: 171
+source: 170 dest: 172
+source: 171 dest: 172
+source: 169 dest: 170
+source: 168 dest: 169
+source: 167 dest: 168
+source: 166 dest: 167
+source: 174 dest: 175
+source: 174 dest: 180
+source: 179 dest: 181
+source: 180 dest: 181
+source: 178 dest: 179
+source: 177 dest: 178
+source: 176 dest: 177
+source: 175 dest: 176
+source: 182 dest: 183
+source: 182 dest: 185
+source: 184 dest: 186
+source: 185 dest: 186
+source: 183 dest: 184
+
+
+head: 190
+tail: 202
+nodes: 190 191 192 193 200 194 195 196 197 198 199 201 202 
+edges: source: 201 dest: 202
+source: 200 dest: 201
+source: 192 dest: 193
+source: 191 dest: 192
+source: 190 dest: 191
+source: 193 dest: 194
+source: 199 dest: 193
+source: 193 dest: 200
+source: 198 dest: 199
+source: 197 dest: 198
+source: 196 dest: 197
+source: 195 dest: 196
+source: 194 dest: 195
+
+
+
+num funcs: 6
+cyclomatic complexity: 35
+============================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/tmp2/main.c 
+============================================================================
+=======================================================================
+ /Users/benjamincooper/Desktop/summer_2017/spring2015half/144/c/util.c 
+=======================================================================

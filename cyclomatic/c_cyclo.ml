@@ -50,7 +50,7 @@ let rec stmt_to_graph st =
 
     match st with
 
-      Block(b) -> foldr (fun x a -> connect a (stmt_to_graph x)) b empty_graph
+      Block(b) -> let n = next () in foldr (fun x a -> connect a (stmt_to_graph x)) b {nodes=[n];edges=[];head=n;tail=n}
 
     (* Branch statements *)
     (* Needs to be updated to account for compound if statements *)
@@ -62,12 +62,12 @@ let rec stmt_to_graph st =
                      let e1 = {src=h;dst=g1.head;} in
                      let e2 = {src=h;dst=g2.head;} in
                      let e3 = {src=g1.tail;dst=t;} in
-                     let e4 = {src=g1.tail;dst=t;} in
+                     let e4 = {src=g2.tail;dst=t;} in
                      let edges = [e1;e2;e3;e4]@(g1.edges)@(g2.edges) in
                      { nodes = nodes; edges = edges; head = h; tail = t; }
     | Switch(e,cl) -> let case_to_g c = (match c with
-                             Default(sl) -> foldr (fun b a -> connect a (stmt_to_graph b)) sl empty_graph
-                           | Case(e,sl) -> foldr (fun b a -> connect a (stmt_to_graph b)) sl empty_graph) in
+                             Default(sl) -> let n = next () in foldr (fun x a -> connect a (stmt_to_graph x)) sl {nodes=[n];edges=[];head=n;tail=n}
+                           | Case(e,sl) -> let n = next () in foldr (fun x a -> connect a (stmt_to_graph x)) sl {nodes=[n];edges=[];head=n;tail=n}) in
                       let l = map (case_to_g) cl in
                       let h = next () in
                       let t = next () in
@@ -139,7 +139,7 @@ let rec stmt_to_graph st =
 (* TOP-LEVEL CONVERSION TO GRAPH *)
 
 let func_to_graph { f_name = n; f_type = t; f_body = b; f_static = s; } = 
-    foldr (fun x a -> connect a (stmt_to_graph x)) b empty_graph
+    let n = next () in foldr (fun x a -> connect a (stmt_to_graph x)) b {nodes=[n];edges=[];head=n;tail=n}
 ;;
 
 let rec top_level_to_graph tl = match tl with
