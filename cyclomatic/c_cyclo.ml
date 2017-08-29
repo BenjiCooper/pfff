@@ -16,8 +16,8 @@ open Parse_c
 (* STATEMENT CONVERSION TO GRAPH *)
 
 let bhash1 = Hashtbl.create 20;; (* Used for contains_break *)
-(*let bhash2 = Hashtbl.create 20;;*) (* Used for binding break statements *)
 let ghash = Hashtbl.create 20;; (* Assume there's -hopefully- fewer than 20 GOTO statements *)
+let stack = Stack.create ();; (* Used for keeping track of break statements *)
 
 (* Does the given statement contain a break? *)
 let rec contains_break stmt = match stmt with
@@ -29,7 +29,7 @@ let rec contains_break stmt = match stmt with
     | Switch(e,cl) -> let case_to_break c = (match c with
                             Case(e,sl) -> foldl (fun a b -> a || (contains_break b)) false sl
                           | Default(sl) -> foldl (fun a b -> a || (contains_break b)) false sl) in 
-        foldl (fun a b -> a || (case_to_break b)) false cl
+                      foldl (fun a b -> a || (case_to_break b)) false cl
     | While(e,s) -> contains_break s
     | DoWhile(s,e) -> contains_break s
     | For(e1,e2,e3,s) -> contains_break s
@@ -46,14 +46,18 @@ let rec contains_break stmt = match stmt with
 
 let rec stmt_to_graph st = 
 
-    (*let break = ref -1 in*)
+    (* NOTE: FOR RETURNS, KEEP A RUNNING MUTABLE 
+       LIST OF ALL NODES THAT ARE RETURNS. WHENEVER 
+       YOU CONNECT TWO GRAPHS, CHECK IF THE TAIL IS
+       A RETURN. IMPLEMENT THIS WHEN YOU HAVE A 
+       FREE HOUR. *)
 
     match st with
 
       Block(b) -> let n = next () in foldr (fun x a -> connect a (stmt_to_graph x)) b {nodes=[n];edges=[];head=n;tail=n}
 
     (* Branch statements *)
-    (* Needs to be updated to account for compound if statements *)
+    (* Needs to be updated to account for compound if statements (does it?) *)
     | If(e,s1,s2) -> let h = next () in
                      let g1 = stmt_to_graph s1 in
                      let g2 = stmt_to_graph s2 in
@@ -89,10 +93,7 @@ let rec stmt_to_graph st =
                     let e3 = {src=h;dst=t;} in
                     let edges = [e1;e2;e3]@g.edges in
                     let graph = { nodes = nodes; edges = edges; head = h; tail = t; } in
-                    (* Deal with any break statements *)
-                    (* Currently does not support breaks in nested loops *)
-                    (*let b = contains_break s in
-                    let u = if b then let n = next () in Hashtbl.add bhash2 n t; break := n; () else () in*)
+                    Stack.push t stack ;
                     graph
     | DoWhile(s,e) -> let g = stmt_to_graph s in
                       let c = next () in
@@ -113,21 +114,37 @@ let rec stmt_to_graph st =
                             let edges = [e1;e2;e3]@g.edges in
                             {nodes = nodes; edges = edges; head = h; tail = t; }
 
-    (* GOTO label break and continue do not work yet. They need to be fixed. *)
+    | Break -> let h = next () in
+               let t = Stack.pop stack in
+               { nodes = [h;t]; edges = {src=h;dst=t;}; head = h; tail = t; }
 
-    (* Half-baked solution to break & continue *)
-    | Break -> failwith "unimplemented" (*let n = Hashtbl.find (!break in
-                   { nodes = [!break]; edges = [{src=(!break);dst=n;}]; head = n; tail = n }*)
-    | Continue -> failwith "unimplemented"
+    | Continue -> failwith "unimplemented" (* not sure quite yet *)
+
+    | Return(e) -> failwith "unimplemented" (* see note on returns *)
 
     (* Use a hash to create associations for Label and GOTO *)
-    | Label(n,s) -> let c = next () in
-                    Hashtbl.add ghash n c ;
-                    { nodes = [c]; edges = []; head = c; tail = c; }
-    | Goto(n) -> let n1 = Hashtbl.find ghash n in
-                 let n2 = next () in
-                 let e = {src=n2;dst=n1;} in
-                 { nodes = [n2]; edges = [e]; head = n2; tail = n2; }
+    (* I really hope this solution works *)
+    (* It's also kinda irrelevant, because hopefully no one uses goto *)
+    | Label(n,s) -> try
+                        let n1 = Hashtbl.find ghash n in
+                        let gr = stmt_to_graph s in
+                        { nodes = [n1]@gr.nodes ; edges = [{src=n1;dst=gr.head;}]@gr.edges ; head = n1 ; tail = gr.tail; }
+                    with
+                        Not_found -> 
+                            let c = next () in
+                            let gr = stmt_to_graph s in
+                            Hashtbl.add ghash n c ;
+                            { nodes = [c]@gr.nodes; edges = [{src=c;dst=gr.head}]; head = c; tail = gr.tail; }
+    | Goto(n) -> try
+                     let n1 = Hashtbl.find ghash n in
+                     let n2 = next () in
+                     let e = {src=n2;dst=n1;} in
+                     { nodes = [n2]; edges = [e]; head = n2; tail = n2; }
+                 with
+                    Not_found -> 
+                        let c = next () in
+                        Hashtbl.add ghash n c ;
+                        { nodes = [c] ; edges = [] ; head = c ; tail = c; }
 
     (* Anything else just becomes a single node *)
     (* NOTE: This probably won't work for ASM *)
